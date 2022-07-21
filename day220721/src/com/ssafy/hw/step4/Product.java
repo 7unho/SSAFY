@@ -24,7 +24,7 @@ public class Product {
     }
 
     public String toString(){
-        return String.format("Product [pCode=%s, pName=%s, price=%d, quantity=%d, brand=%s, desc=%s입니다.]\n",
+        return String.format("Product [pCode=%s, pName=%s, price=%d, quantity=%d, brand=%s, desc=%s입니다.]",
                 pCode, pName, price, quantity, brand, desc);
     }
 }

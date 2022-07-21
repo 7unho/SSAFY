@@ -1,18 +1,15 @@
 package com.ssafy.ws.step3;
 
 public class Book {
-    String isbn;
-    String title;
-    String author;
-    String publisher;
-    int price;
-    String desc;
+    private String isbn;
+    private String title;
+    private String author;
+    private String publisher;
+    private int price;
+    private String desc;
 
-    public Book(){
-
-    }
-
-    public Book(String isbn, String title, String author, String publisher, int price, String desc){
+    public Book(){}
+    public Book(String isbn, String title, String author, String publisher, int price, String desc) {
         this.isbn = isbn;
         this.title = title;
         this.author = author;
@@ -21,8 +18,4 @@ public class Book {
         this.desc = desc;
     }
 
-
-    public String toString(){
-        return String.format("%s\t|\t%s\t|\t%s\t|\t%s\t|\t%s\t|\t%s", this.isbn, this.title, this.author, this.publisher, this.price, this.desc);
-    }
 }
