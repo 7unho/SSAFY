@@ -21,6 +21,7 @@ public class BookTest {
                 "SW 모델링"
         );
 
+        System.out.println("**도서목록**");
         System.out.println(objBook1.toString());
         System.out.println(objBook2.toString());
     }

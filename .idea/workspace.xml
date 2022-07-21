@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220721/src/com/ssafy/hw/step4/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220721/src/com/ssafy/hw/step4/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220721/src/com/ssafy/hw/step4/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220721/src/com/ssafy/hw/step4/ProductTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220721/com/ssafy/hw/step4/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220721/com/ssafy/hw/step4/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220721/com/ssafy/hw/step4/ProductTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220721/com/ssafy/hw/step4/ProductTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3/BookTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/day220721/com/ssafy/ws/step3/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220721/com/ssafy/ws/step3/Book.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +143,7 @@
       <workItem from="1658374105757" duration="361000" />
       <workItem from="1658374476564" duration="174000" />
       <workItem from="1658374815583" duration="14695000" />
-      <workItem from="1658390318878" duration="102000" />
+      <workItem from="1658390318878" duration="796000" />
     </task>
     <servers />
   </component>

@@ -18,4 +18,8 @@ public class Book {
         this.desc = desc;
     }
 
+    @Override
+    public String toString() {
+        return isbn + "\t| " + title + "\t| " + author + "\t| " + publisher + "\t| " + price + "\t| " + desc;
+    }
 }
