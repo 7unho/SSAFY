@@ -21,7 +21,8 @@ public class Book {
         this.desc = desc;
     }
 
+
     public String toString(){
-        return String.format("%s | %s | %s |%s|%s|%s", this.isbn, this.title, this.author, this.publisher, this.price, this.desc);
+        return String.format("%s\t|\t%s\t|\t%s\t|\t%s\t|\t%s\t|\t%s", this.isbn, this.title, this.author, this.publisher, this.price, this.desc);
     }
 }

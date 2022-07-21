@@ -1,6 +1,7 @@
 package com.ssafy.ws.step3;
 
 public class BookTest {
+    
     public static void main(String[] args) {
         Book objBook1 = new Book(
                 "21424",
