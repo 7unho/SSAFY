@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3/NameMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3/NameMenuTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3/BookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220721/com/ssafy/ws/step3/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220721/com/ssafy/ws/step3/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220721/com/ssafy/ws/step3/BookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220721/com/ssafy/ws/step3/BookTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BookTest">
+  <component name="RunManager" selected="Application.NameMenuTest">
     <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ssafy.ws.step3.BookTest" />
       <module name="day220721" />
@@ -63,6 +63,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ssafy.modifier.poly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NameMenuTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.ws.step3.NameMenuTest" />
+      <module name="day220721" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssafy.ws.step3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,19 +109,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.hw.step2.UserTest" />
-      <module name="day220721" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ssafy.hw.step2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="JAVA" />
       <method v="2">
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NameMenuTest" />
         <item itemvalue="Application.BookTest" />
         <item itemvalue="Application.ProductTest" />
         <item itemvalue="Application.MemberBindingTest" />
         <item itemvalue="Application.SingletonTest" />
-        <item itemvalue="Application.UserTest" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +143,7 @@
       <workItem from="1658374105757" duration="361000" />
       <workItem from="1658374476564" duration="174000" />
       <workItem from="1658374815583" duration="14695000" />
-      <workItem from="1658390318878" duration="796000" />
+      <workItem from="1658390318878" duration="3550000" />
     </task>
     <servers />
   </component>
