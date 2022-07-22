@@ -31,8 +31,10 @@ public class NameMenu {
 
     public static void deleteName(String name){
         for(int i = 0; i < 5; i ++ ){
-            if(names[i].equals(name)) names[i] = null;
-            return;
+            if(names[i].equals(name)) {
+                names[i] = null;
+                return;
+            }
         }
     }
 }
