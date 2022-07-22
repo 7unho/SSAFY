@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gitTest/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitTest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitTest/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitTest/gitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitTest/src/com/ssafy/gitTest/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitTest/src/com/ssafy/gitTest/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3/NameMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3/NameMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220722" beforeDir="false" afterPath="$PROJECT_DIR$/day220722" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220722/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day220722/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3/NameMenuTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3/NameMenuTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/day220721/com/ssafy/ws/step3/NameMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220721/com/ssafy/ws/step3/NameMenu.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/day220722" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -157,6 +148,7 @@
       <workItem from="1658406755331" duration="1243000" />
       <workItem from="1658447906748" duration="877000" />
       <workItem from="1658452228263" duration="1307000" />
+      <workItem from="1658461857608" duration="1329000" />
     </task>
     <servers />
   </component>

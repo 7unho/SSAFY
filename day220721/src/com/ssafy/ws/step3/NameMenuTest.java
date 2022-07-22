@@ -32,8 +32,7 @@ public class NameMenuTest {
                     break;
                 case 4:
                     System.out.print("삭제이름입력 : ");
-                    String name = sc.next();
-                    NameMenu.deleteName(name);
+                    NameMenu.deleteName(sc.next());
                     break;
                 default:
                     break;

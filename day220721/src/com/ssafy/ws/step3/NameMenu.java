@@ -22,7 +22,7 @@ public class NameMenu {
     public static void updateName(String before, String after){
         System.out.printf("before : %s, after : %s\n", before, after);
         for(int i = 0; i < 5; i ++ ){
-            if(names[i].equals(before)) {
+            if(before.equals(names[i])) {
                 names[i] = after;
                 return;
             }
@@ -31,7 +31,7 @@ public class NameMenu {
 
     public static void deleteName(String name){
         for(int i = 0; i < 5; i ++ ){
-            if(names[i].equals(name)) {
+            if(name.equals(names[i])) {
                 names[i] = null;
                 return;
             }
