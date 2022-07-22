@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3/NameMenu2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3/NameMenuTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,7 +151,7 @@
       <workItem from="1658406755331" duration="1243000" />
       <workItem from="1658447906748" duration="877000" />
       <workItem from="1658452228263" duration="1307000" />
-      <workItem from="1658461857608" duration="7452000" />
+      <workItem from="1658461857608" duration="8214000" />
     </task>
     <servers />
   </component>
