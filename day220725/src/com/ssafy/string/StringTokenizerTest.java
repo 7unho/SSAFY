@@ -1,4 +1,4 @@
-package com.ssafy;
+package com.ssafy.string;
 
 import java.util.StringTokenizer;
 

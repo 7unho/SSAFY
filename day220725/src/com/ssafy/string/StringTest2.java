@@ -1,4 +1,4 @@
-package com.ssafy;
+package com.ssafy.string;
 
 public class StringTest2 {
   public static void main(String[] args) {

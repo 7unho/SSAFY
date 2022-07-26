@@ -1,2 +1,4 @@
-package com.ssafy.inter.module;public class Camera {
+package com.ssafy.inter.module;
+
+public class Camera {
 }

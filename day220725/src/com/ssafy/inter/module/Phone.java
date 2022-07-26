@@ -1,2 +1,4 @@
-package com.ssafy.inter.module;public class Phone {
+package com.ssafy.inter.module;
+
+public class Phone {
 }

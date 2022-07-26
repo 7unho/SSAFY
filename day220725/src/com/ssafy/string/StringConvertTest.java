@@ -1,11 +1,11 @@
-package com.ssafy;
+package com.ssafy.string;
 
 public class StringConvertTest {//문자열 변환 테스트
 
    static void convert1() {
 	  String s1="우리나라";
 	  String s2="대한민국만세!!";	  
-	  s1=s1+s2;
+	  s1 = s1 + s2;
 	  /*
 	     String클래스: 고정문자열!!
 	     1. String클래스 객체 생성
@@ -19,7 +19,8 @@ public class StringConvertTest {//문자열 변환 테스트
    }//convert1
    
    static void convert2() {
-	  StringBuffer s1 = new StringBuffer("우리나라"); 
+//	  StringBuffer s1 = new StringBuffer("우리나라"); // 동기화 코드 추가 <== 멀티쓰레드 사용하는 경우에 주로 사용 -> 속도 비교적 느림
+	  StringBuilder s1 = new StringBuilder("우리나라"); // 동기화 코드가 없다 -> 속도가 비교적 빠르다.
 	  s1.append("대한민국만세!!");
 	  /*
 	     StringBuffer클래스: 가변문자열!!

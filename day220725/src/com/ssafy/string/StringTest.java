@@ -1,4 +1,4 @@
-package com.ssafy;
+package com.ssafy.string;
 
 public class StringTest {
   public static void main(String[] args) {
@@ -30,7 +30,8 @@ public class StringTest {
      //특정문자의 인덱스 얻어오기 :int str.indexOf(int ch)
      System.out.println("str.indexOf('P')="+ str.indexOf('P'));//(97));
      
-     
+
+     // 첫글자인 a의 인덱스 9를 리턴함.
      System.out.println("str.indexOf(\"am\")="+ str.indexOf("am"));
      
      //String str="JavaProgramming";
@@ -54,6 +55,7 @@ public class StringTest {
      //문자열 제거!!
      str=str.trim();//좌우 연속되는 공백(white space --> space,tab,enter)을 제거
      System.out.println("공백제거후 STR문자열길이="+str.length());
+
 	 
   }
 }

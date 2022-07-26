@@ -1,7 +1,14 @@
-package com.ssafy.generic;
+package com.ssafy.generic.box;
 
 public class NormalBox {
     private Object some;
+
+    public NormalBox(){}
+
+    public NormalBox(Object some) {
+        super();
+        this.some = some;
+    }
 
     public Object getSome(){
         return some;

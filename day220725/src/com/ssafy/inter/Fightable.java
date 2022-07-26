@@ -1,2 +1,5 @@
-package com.ssafy.inter;public interface Fightable {
+package com.ssafy.inter;
+
+public interface Fightable {
+    int fire();
 }
