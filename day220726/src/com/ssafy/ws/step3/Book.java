@@ -69,7 +69,7 @@ public class Book {
 
     @Override
     public String toString() {
-        return String.format("%s    | %s    | %s    | %s    | %d    | %s    \n",
+        return String.format("%s    | %s    | %s    | %s    | %d    | %s    ",
                 this.isbn, this.title, this.author, this.publisher, this.price, this.desc);
     }
 }

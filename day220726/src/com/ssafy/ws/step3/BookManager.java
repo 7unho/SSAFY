@@ -54,7 +54,7 @@ public class BookManager extends Book{
         int idx = 0;
 
         for (int i = 0; i < size; i++) {
-            if(books[i] instanceof Magazine) magazines[idx++] = (Magazine) books[i];
+            if(books[i].getIsbn() != null && books[i] instanceof Magazine) magazines[idx++] = (Magazine) books[i];
         }
         return magazines;
     }
@@ -84,5 +84,4 @@ public class BookManager extends Book{
 
         return totalPrice / size;
     }
-
 }

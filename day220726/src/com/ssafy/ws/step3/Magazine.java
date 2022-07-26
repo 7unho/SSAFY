@@ -6,7 +6,8 @@ public class Magazine extends Book{
 
     public Magazine(){}
 
-    public Magazine(int year, int month) {
+    public Magazine(String isbn, String title, String author, String publisher, int price, String desc, int year, int month) {
+        super(isbn, title, author, publisher, price, desc);
         this.year = year;
         this.month = month;
     }

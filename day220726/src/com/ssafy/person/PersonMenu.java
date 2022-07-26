@@ -6,10 +6,6 @@ import java.util.List;
 
 public class PersonMenu {//기능정의 (CRUD)
 	
-	int size;//0 Person의 개수를 표현
-	final int MAX=100; //최대 입력
-	int no; //입력되는 Person에게 번호부여
-	
 	//Person을 담을 배열정의, 데이터(Person) 저장소
 	List<Person> persons = new ArrayList<>(); //고정배열
 	// persons = {null, null, null, null, null,....}
