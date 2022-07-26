@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/day220726/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/CheckedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/ExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/ExceptionTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/ExceptionTest_Sub.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220726/src/com/ssafy/ExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/ExceptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220726/src/com/ssafy/ExceptionTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/ExceptionTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220726/com/ssafy/ExceptionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220726/com/ssafy/ExceptionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220726/com/ssafy/ExceptionTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220726/com/ssafy/ExceptionTest2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
       <recent name="$PROJECT_DIR$/day220722/src/com/ssafy/poly/mission3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExceptionTest2">
+  <component name="RunManager" selected="Application.ExceptionTest">
     <configuration name="CheckedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ssafy.CheckedTest" />
       <module name="day220726" />
@@ -141,9 +141,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionTest" />
         <item itemvalue="Application.ExceptionTest2" />
         <item itemvalue="Application.CheckedTest" />
-        <item itemvalue="Application.ExceptionTest" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -166,7 +166,7 @@
       <workItem from="1658461857608" duration="24877000" />
       <workItem from="1658793705611" duration="26000" />
       <workItem from="1658793739065" duration="250000" />
-      <workItem from="1658793996361" duration="5781000" />
+      <workItem from="1658793996361" duration="8614000" />
     </task>
     <servers />
   </component>

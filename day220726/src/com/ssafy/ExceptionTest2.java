@@ -3,6 +3,9 @@ package com.ssafy;
 public class ExceptionTest2 {
     public static void main(String[] args) {
 
+        // regular expression
+        //if(!args[0].matches("[0-9]+") || !args[0].matches("[\\d]+")
+
         // ArrayIndexOutOfBoundsException
         // NumberFormatException            발생 가능성⬆ ️
         try {
@@ -20,6 +23,8 @@ public class ExceptionTest2 {
             e.printStackTrace();
         } catch (ArithmeticException e){
             e.printStackTrace();
+        } catch (Exception e){
+            System.err.println(e.getMessage());
         }
     }
 }
