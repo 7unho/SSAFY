@@ -2,40 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220726/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/CheckedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/ExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/ExceptionTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/abs/DieselSUV.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/abs/DieselSUV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/abs/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/abs/ElectricCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/abs/HorseCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/abs/HorseCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/abs/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/abs/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/abs/VehicleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/abs/VehicleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/generic/box/GenericBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/generic/box/GenericBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/generic/box/NormalBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/generic/box/NormalBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/generic/box/NumberBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/generic/box/NumberBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/generic/box/UseBoxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/generic/box/UseBoxTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/Fightable.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/Fightable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/Heroable.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/Heroable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/IromManTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/IromManTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/IronMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/IronMan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/Transformable.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/Transformable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/module/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/module/Camera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/module/Chargeable.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/module/Chargeable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/module/DigCamera.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/module/DigCamera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/module/HandPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/module/HandPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/module/ModuleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/module/ModuleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/module/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/module/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/replace/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/replace/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/replace/CalculatorClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/replace/CalculatorClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/replace/CalculatorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/replace/CalculatorImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/replace/CalculatorStub.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/inter/replace/CalculatorStub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/staticdefault/StaticDefaultMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/staticdefault/StaticDefaultMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/string/StringConvertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/string/StringConvertTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/string/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/string/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/string/StringTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/string/StringTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/string/StringTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/string/StringTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/string/StringTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/string/StringTest4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220725/src/com/ssafy/string/StringTokenizerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220725/src/com/ssafy/string/StringTokenizerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,21 +36,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "/Users/unknownflower/Desktop/workspace/Java/day220721/src/com/ssafy/ws/step3",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/unknownflower/Desktop/workspace/Java/day220721/src/com/ssafy/ws/step3&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3" />
@@ -88,13 +60,13 @@
       <recent name="$PROJECT_DIR$/day220722/src/com/ssafy/poly/mission3" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ModuleTest">
-    <configuration name="ModuleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.inter.module.ModuleTest" />
-      <module name="day220725" />
+  <component name="RunManager" selected="Application.ExceptionTest2">
+    <configuration name="CheckedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.CheckedTest" />
+      <module name="day220726" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.inter.module.*" />
+          <option name="PATTERN" value="com.ssafy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringConvertTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.string.StringConvertTest" />
-      <module name="day220725" />
+    <configuration name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.ExceptionTest" />
+      <module name="day220726" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.string.*" />
+          <option name="PATTERN" value="com.ssafy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.string.StringTest" />
-      <module name="day220725" />
+    <configuration name="ExceptionTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.ExceptionTest2" />
+      <module name="day220726" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.string.*" />
+          <option name="PATTERN" value="com.ssafy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseBoxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.generic.box.UseBoxTest" />
-      <module name="day220725" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.Test" />
+      <module name="day220726" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.generic.box.*" />
+          <option name="PATTERN" value="com.ssafy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,6 +139,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExceptionTest2" />
+        <item itemvalue="Application.CheckedTest" />
+        <item itemvalue="Application.ExceptionTest" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -186,6 +166,7 @@
       <workItem from="1658461857608" duration="24877000" />
       <workItem from="1658793705611" duration="26000" />
       <workItem from="1658793739065" duration="250000" />
+      <workItem from="1658793996361" duration="5781000" />
     </task>
     <servers />
   </component>
