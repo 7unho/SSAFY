@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/ExceptionTest_Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/collection/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/collection/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/ws/step3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/ws/step3/BookManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/ws/step3/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/ws/step3/Magazine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day220726/src/com/ssafy/ExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/ExceptionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220726/src/com/ssafy/ExceptionTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220726/src/com/ssafy/ExceptionTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/day220726/com/ssafy/ExceptionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220726/com/ssafy/ExceptionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220726/com/ssafy/ExceptionTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220726/com/ssafy/ExceptionTest2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +63,13 @@
       <recent name="$PROJECT_DIR$/day220722/src/com/ssafy/poly/mission3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExceptionTest">
-    <configuration name="CheckedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.CheckedTest" />
+  <component name="RunManager" selected="Application.PersonMenuTest">
+    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.ws.step3.BookTest" />
       <module name="day220726" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.*" />
+          <option name="PATTERN" value="com.ssafy.ws.step3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.Test" />
+    <configuration name="PersonMenuTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.person.PersonMenuTest" />
       <module name="day220726" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.*" />
+          <option name="PATTERN" value="com.ssafy.person.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.abs.VehicleTest" />
-      <module name="day220725" />
+    <configuration name="com.ssafy.collection.ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.collection.ListTest" />
+      <module name="day220726" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.abs.*" />
+          <option name="PATTERN" value="com.ssafy.ws.step3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,10 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonMenuTest" />
+        <item itemvalue="Application.BookTest" />
+        <item itemvalue="Application.com.ssafy.collection.ListTest" />
         <item itemvalue="Application.ExceptionTest" />
         <item itemvalue="Application.ExceptionTest2" />
-        <item itemvalue="Application.CheckedTest" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +170,8 @@
       <workItem from="1658461857608" duration="24877000" />
       <workItem from="1658793705611" duration="26000" />
       <workItem from="1658793739065" duration="250000" />
-      <workItem from="1658793996361" duration="8614000" />
+      <workItem from="1658793996361" duration="17111000" />
+      <workItem from="1658818329311" duration="4345000" />
     </task>
     <servers />
   </component>

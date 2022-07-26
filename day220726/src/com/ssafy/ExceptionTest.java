@@ -24,12 +24,10 @@ public class ExceptionTest {
         // 정석은 root 폴더 기준으로 전체경로 할당해주는게 기본이지만,
         // ide 툴에서만 현재 프로젝트까지의 경로는 생략이 가능해서 a.txt로 선언.
 //        FileReader fr = new FileReader("/Users/unknownflower/Desktop/workspace/Java/day220726/a.txt");
-        FileReader fr = null;
 
-        try{
+        try(FileReader fr = new FileReader("day220726/a.txt");){
             int ch;
 
-            fr = new FileReader("day220726/a.txt");
             ch = fr.read();
 
             while((ch = fr.read()) != -1){
@@ -44,13 +42,13 @@ public class ExceptionTest {
             return;
         } catch (IOException e){
             System.err.println(e.getMessage());
-        } finally {
-            System.out.printf("예외에 상관없이 실행되는 finally 블럭 !");
-            try {
-                if(fr != null) fr.close(); // null.close() == > NullPointerException 가능성 ⬆ ️
-            } catch (IOException e) {
-                throw new RuntimeException(e);
-            }
+//        } finally {
+//            System.out.printf("예외에 상관없이 실행되는 finally 블럭 !");
+//            try {
+//                if(fr != null) fr.close(); // null.close() == > NullPointerException 가능성 ⬆ ️
+//            } catch (IOException e) {
+//                throw new RuntimeException(e);
+//            }
         }
         System.out.printf(">>> 마지막 문장 !");
     }
