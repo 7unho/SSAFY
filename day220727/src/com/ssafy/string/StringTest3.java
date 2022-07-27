@@ -5,11 +5,13 @@ public class StringTest3 {
 	  String tel="02-123-4567";
 	  //          012345678901
 	  
-	  int idx = tel.indexOf('-');
+	  int idx = tel.indexOf('-'); // 2
+	  int idx2 = tel.indexOf('-', idx + 1); // 6
+
 	  
 	  String tel1= tel.substring(0, idx);
-	  String tel2= tel.substring(4, 7);
-	  String tel3= tel.substring(8);
+	  String tel2= tel.substring(idx + 1, idx2);
+	  String tel3= tel.substring(idx2 + 1);
 	  
 	  System.out.println("tel1 = "+ tel1);
 	  System.out.println("tel2 = "+ tel2);

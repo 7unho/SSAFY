@@ -56,6 +56,6 @@ public class StringTest {
      str=str.trim();//좌우 연속되는 공백(white space --> space,tab,enter)을 제거
      System.out.println("공백제거후 STR문자열길이="+str.length());
 
-	 
+
   }
 }
