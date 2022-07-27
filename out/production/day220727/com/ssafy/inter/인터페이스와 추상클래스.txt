@@ -123,7 +123,7 @@ interface B         A{
             A                hello()
      
      //BufferedReader(Reader in)
-     BufferedReader br = new Bu 
+     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             
 
 <자바 I/O 4대 클래스> ==> 추상클래스로 정의!!
