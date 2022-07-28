@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<boxOfficeResult>
+    <boxofficeType>일별 박스오피스</boxofficeType>
+    <showRange>20210701~20210701</showRange>
+    <dailyBoxOfficeList>
+        <dailyBoxOffice>
+            <rnum>1</rnum>
+            <rank>1</rank>
+            <rankInten>0</rankInten>
+            <rankOldAndNew>OLD</rankOldAndNew>
+            <movieCd>20192696</movieCd>
+            <movieNm>발신제한</movieNm>
+            <openDt>2021-06-23</openDt>
+            <salesAmt>302667090</salesAmt>
+            <salesShare>27.5</salesShare>
+            <salesInten>-8840840</salesInten>
+            <salesChange>-2.8</salesChange>
+            <salesAcc>4641205070</salesAcc>
+            <audiAcc>32113</audiAcc>
+            <audiInten>-13952</audiInten>
+            <audiChange>-30.3</audiChange>
+            <audiAcc>499902</audiAcc>
+            <scrnCnt>822</scrnCnt>
+            <showCnt>3012</showCnt>
+        </dailyBoxOffice>
+    </dailyBoxOfficeList>
+</boxOfficeResult>

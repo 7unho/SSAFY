@@ -2,17 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220728/day220728.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/node/NodeDiarytest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/node/SimpleInputTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/node/UseFileStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/node/target.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/node/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/serial/ObjectStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/serial/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/gui/BoxOffice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/gui/BoxOfficeUi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/gui/LayoutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/hw/step2/IUserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/hw/step2/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/hw/step2/UserManagerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/hw/step2/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/hw/step2/VipUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/json/BoxOffice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/json/JsonParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/json/UseJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/json/boxoffice.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/ws/step3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/ws/step3/BookManagerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/ws/step3/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/ws/step3/IBookManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/ws/step3/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/xml/BoxOffice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/xml/BoxOfficeDomParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/xml/BoxOfficeSaxParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/xml/DomParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/xml/SaxParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220728/src/com/ssafy/xml/boxoffice.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220728/day220728.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day220728/day220728.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220728/com/ssafy/node/serial/ObjectStreamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220728/com/ssafy/node/serial/Person$Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220728/com/ssafy/node/serial/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220728/com/ssafy/node/target.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220728/com/ssafy/node/target.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +42,7 @@
       <list>
         <option value="Kotlin Class" />
         <option value="package-info" />
+        <option value="Tag Library Descriptor" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -50,7 +69,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/unknownflower/Desktop/workspace/Java/day220721/src/com/ssafy/ws/step3&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
@@ -61,17 +80,22 @@
       <recent name="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day220728/src/com/ssafy/jackson" />
       <recent name="$PROJECT_DIR$/day220725/src/com/ssafy/string" />
       <recent name="$PROJECT_DIR$/day220722/src/com/ssafy/poly/mission3" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ssafy.gui" />
+      <recent name="com.ssafy.json" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ObjectStreamTest">
-    <configuration name="LambdaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.lambda.LambdaTest" />
-      <module name="day220727" />
+  <component name="RunManager" selected="Application.com.ssafy.ws.step3.BookTest">
+    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.ws.step3.BookTest" />
+      <module name="day220728" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.lambda.*" />
+          <option name="PATTERN" value="com.ssafy.ws.step3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NodeDiarytest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.node.NodeDiarytest" />
+    <configuration name="BoxOfficeUi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.gui.BoxOfficeUi" />
       <module name="day220728" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.node.*" />
+          <option name="PATTERN" value="com.ssafy.gui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.node.serial.ObjectStreamTest" />
+    <configuration name="JsonParserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.json.JsonParserTest" />
       <module name="day220728" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.node.serial.*" />
+          <option name="PATTERN" value="com.ssafy.json.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleInputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.node.SimpleInputTest" />
+    <configuration name="LayoutTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.gui.LayoutTest" />
       <module name="day220728" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.node.*" />
+          <option name="PATTERN" value="com.ssafy.gui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseFileStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.node.UseFileStream" />
+    <configuration name="UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.hw.step2.UserTest" />
       <module name="day220728" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.node.*" />
+          <option name="PATTERN" value="com.ssafy.hw.step2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ObjectStreamTest" />
-        <item itemvalue="Application.NodeDiarytest" />
-        <item itemvalue="Application.UseFileStream" />
-        <item itemvalue="Application.SimpleInputTest" />
-        <item itemvalue="Application.LambdaTest" />
+        <item itemvalue="Application.com.ssafy.ws.step3.BookTest" />
+        <item itemvalue="Application.UserTest" />
+        <item itemvalue="Application.BoxOfficeUi" />
+        <item itemvalue="Application.LayoutTest" />
+        <item itemvalue="Application.JsonParserTest" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +201,8 @@
       <workItem from="1658823584413" duration="1177000" />
       <workItem from="1658837104331" duration="1649000" />
       <workItem from="1658880232979" duration="21081000" />
-      <workItem from="1658967940498" duration="7331000" />
+      <workItem from="1658967940498" duration="25947000" />
+      <workItem from="1658999610835" duration="836000" />
     </task>
     <servers />
   </component>
