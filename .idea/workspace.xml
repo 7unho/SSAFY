@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/AlgorithmTest/AlgorithmTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgorithmTest/src/com/april2nds/swe/BOJ_1244.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgorithmTest/src/com/april2nds/swe/SWE_1289.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220729/day220729.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220729/src/com/ssafy/xml/DomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220729/src/com/ssafy/xml/DomTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220729/src/com/ssafy/xml/book/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220729/src/com/ssafy/xml/test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220729/src/com/ssafy/xml/test2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220801/day220801.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220801/src/com/ssafy/recursive/FactorialTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220801/src/com/ssafy/test/BufferedReaderScannertest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220801/src/com/ssafy/test/ScannerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220802/day220802.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220802/src/com/ssafy/boj/BOJ_17478.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220802/src/com/ssafy/boj/BOJ_17478.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220802/src/com/ssafy/boj/BOJ_17478.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220802/com/ssafy/boj/BOJ_17478.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220802/com/ssafy/boj/BOJ_17478.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +179,7 @@
       <workItem from="1658967940498" duration="25947000" />
       <workItem from="1658999610835" duration="11207000" />
       <workItem from="1659314061024" duration="16098000" />
-      <workItem from="1659398706127" duration="4173000" />
+      <workItem from="1659398706127" duration="5242000" />
     </task>
     <servers />
   </component>
