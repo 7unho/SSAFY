@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/day220802/src/com/ssafy/ArraySortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220802/src/com/ssafy/MissionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220802/src/com/ssafy/swe/SWE_1208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220802/src/com/ssafy/swe/SWE_1210.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220802/src/com/ssafy/swe/Solution_1954_달팽이_숫자.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220803/day220803.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220803/src/com/april2nds/boj/BOJ_11659.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220803/src/com/april2nds/boj/BOJ_11660.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220803/src/com/april2nds/swe/SWE_1873.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220803/src/com/april2nds/swe/SWE_2805.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220802/src/com/ssafy/boj/BOJ_17478.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220802/src/com/ssafy/boj/BOJ_17478.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/day220802/com/ssafy/boj/BOJ_17478.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220802/com/ssafy/boj/BOJ_17478.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,13 +74,13 @@
       <recent name="com.ssafy.json" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_17478">
-    <configuration name="BOJ_17478" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.boj.BOJ_17478" />
-      <module name="day220802" />
+  <component name="RunManager" selected="Application.BOJ_11659">
+    <configuration name="BOJ_11659" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nds.boj.BOJ_11659" />
+      <module name="day220803" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.boj.*" />
+          <option name="PATTERN" value="com.april2nds.boj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BufferedReaderScannertest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.test.BufferedReaderScannertest" />
-      <module name="day220801" />
+    <configuration name="BOJ_11660" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nds.boj.BOJ_11660" />
+      <module name="day220803" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.test.*" />
+          <option name="PATTERN" value="com.april2nds.boj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,22 +101,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.recursive.FactorialTest" />
-      <module name="day220801" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ssafy.recursive.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SWE_1289" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nds.swe.SWE_1289" />
-      <module name="AlgorithmTest" />
+    <configuration name="SWE_1873" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nds.swe.SWE_1873" />
+      <module name="day220803" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.april2nds.swe.*" />
@@ -117,15 +114,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.test.ScannerTest" />
-      <module name="day220801" />
+    <configuration name="Solution_1954_달팽이_숫자" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.swe.Solution_1954_달팽이_숫자" />
+      <module name="day220802" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.test.*" />
+          <option name="PATTERN" value="com.ssafy.swe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.april2nds.swe.SWE_2805" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nds.swe.SWE_2805" />
+      <module name="day220803" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -145,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ_17478" />
-        <item itemvalue="Application.SWE_1289" />
-        <item itemvalue="Application.FactorialTest" />
-        <item itemvalue="Application.BufferedReaderScannertest" />
-        <item itemvalue="Application.ScannerTest" />
+        <item itemvalue="Application.BOJ_11659" />
+        <item itemvalue="Application.BOJ_11660" />
+        <item itemvalue="Application.com.april2nds.swe.SWE_2805" />
+        <item itemvalue="Application.SWE_1873" />
+        <item itemvalue="Application.Solution_1954_달팽이_숫자" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +183,9 @@
       <workItem from="1658967940498" duration="25947000" />
       <workItem from="1658999610835" duration="11207000" />
       <workItem from="1659314061024" duration="16098000" />
-      <workItem from="1659398706127" duration="5242000" />
+      <workItem from="1659398706127" duration="24117000" />
+      <workItem from="1659445899613" duration="11748000" />
+      <workItem from="1659500610170" duration="7978000" />
     </task>
     <servers />
   </component>
