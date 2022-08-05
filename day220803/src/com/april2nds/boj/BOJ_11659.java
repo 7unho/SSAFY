@@ -35,11 +35,11 @@ public class BOJ_11659 {
             I = Integer.parseInt(st.nextToken());
             J = Integer.parseInt(st.nextToken());
 
-            for (int i = I; i < ((J - I) / 2) + I ; i++) {
+            for (int i = I; i <= ((J - I) / 2) + I ; i++) {
                 answer += arr[i] + arr[(I + J) - i];
             }
 
-            answer += arr[(J - I) / 2 + I];
+            if ((J - I) % 2 == 0) answer -= arr[(J - I) / 2 + I];
             System.out.println(answer);
         }
         
