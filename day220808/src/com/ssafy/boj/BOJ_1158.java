@@ -25,13 +25,17 @@ public class BOJ_1158 {
             queue.offer(i);
         }
 
-        while(queue.size() > 1){
+        while(true){
+            if (queue.size() == 1) {
+                answer.append(queue.poll()).append(">");
+                break;
+            }
             for (int i = 0; i < K - 1; i++) {
                 queue.offer(queue.poll());
             }
             answer.append(queue.poll()).append(", ");
         }
-        answer.append(queue.poll()).append(">");
+
 
         System.out.println(answer);
     }
