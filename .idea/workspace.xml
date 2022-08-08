@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/day220803/src/com/april2nds/swe/SWE_2001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220804/day220804.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220804/src/com/april2nds/boj/BOJ_2164.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220804/src/com/april2nds/swe/SWE_1218.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220804/src/com/april2nds/swe/SWE_1225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220804/src/com/ssafy/Ex_DiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220804/src/com/ssafy/SubSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220804/src/com/ssafy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220805/day220805.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220805/src/com/april2nds/boj/BOJ_2493.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220805/src/com/ssafy/boj/BOJ_12891.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220805/src/com/ssafy/boj/Main_2164_카드2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220808/day220808.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220808/src/com/ssafy/boj/BOJ_1158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220808/src/com/ssafy/live/IStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220808/src/com/ssafy/live/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220808/src/com/ssafy/live/SsafyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220808/src/com/ssafy/live/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220808/src/com/ssafy/swe/SWE_1228.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220803/src/com/april2nds/boj/BOJ_11659.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220803/src/com/april2nds/boj/BOJ_11659.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220803/com/april2nds/boj/BOJ_11659.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220803/com/april2nds/boj/BOJ_11659.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +26,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Interface" />
         <option value="Tag Library Descriptor" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -72,10 +75,36 @@
       <recent name="com.ssafy.json" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_2164">
-    <configuration name="BOJ_2164" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nds.boj.BOJ_2164" />
-      <module name="day220804" />
+  <component name="RunManager" selected="Application.BOJ_1158">
+    <configuration name="BOJ_1158" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.boj.BOJ_1158" />
+      <module name="day220808" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssafy.boj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_12891" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.boj.BOJ_12891" />
+      <module name="day220805" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssafy.boj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_2493" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nds.boj.BOJ_2493" />
+      <module name="day220805" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.april2nds.boj.*" />
@@ -86,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_DiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.Ex_DiceTest" />
-      <module name="day220804" />
+    <configuration name="SWE_1228" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.swe.SWE_1228" />
+      <module name="day220808" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.*" />
+          <option name="PATTERN" value="com.ssafy.swe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,38 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWE_1218" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nds.swe.SWE_1218" />
-      <module name="day220804" />
+    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.StackTest" />
+      <module name="day220808" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.april2nds.swe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SWE_1225" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nds.swe.SWE_1225" />
-      <module name="day220804" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.april2nds.swe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.SubSetTest" />
-      <module name="day220804" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ssafy.*" />
+          <option name="PATTERN" value="com.ssafy.live.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ_2164" />
-        <item itemvalue="Application.SWE_1225" />
-        <item itemvalue="Application.SubSetTest" />
-        <item itemvalue="Application.Ex_DiceTest" />
-        <item itemvalue="Application.SWE_1218" />
+        <item itemvalue="Application.BOJ_1158" />
+        <item itemvalue="Application.StackTest" />
+        <item itemvalue="Application.SWE_1228" />
+        <item itemvalue="Application.BOJ_2493" />
+        <item itemvalue="Application.BOJ_12891" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +193,9 @@
       <workItem from="1659398706127" duration="24117000" />
       <workItem from="1659445899613" duration="11748000" />
       <workItem from="1659500610170" duration="29290000" />
+      <workItem from="1659657840029" duration="17755000" />
+      <workItem from="1659916316633" duration="301000" />
+      <workItem from="1659929592650" duration="13117000" />
     </task>
     <servers />
   </component>
