@@ -61,6 +61,10 @@ public class SWE_6808 {
             if(inYoung[i] > kyuYoung[depth]) Solution(depth + 1, winSum, loseSum + inYoung[i] + kyuYoung[depth]);
             else if(kyuYoung[depth] > inYoung[i]) Solution(depth + 1, winSum + inYoung[i] + kyuYoung[depth], loseSum);
 
+//            if(inYoung[i] > kyuYoung[depth]) loseSum += inYoung[i] + kyuYoung[depth];
+//            else if(kyuYoung[depth] > inYoung[i]) winSum += inYoung[i] + kyuYoung[depth];
+//
+//            Solution(depth + 1, winSum, loseSum);
             cards[inYoung[i]] = false;
         }
     }

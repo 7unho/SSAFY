@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/day220809/day220809.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220809/src/com/ssafy/swe/SWE_1233.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220809/src/com/ssafy/swe/SWE_6808.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220809/src/com/ssafy/swe/SWE_6808.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220809/src/com/ssafy/swe/SWE_6808.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +184,7 @@
       <workItem from="1659657840029" duration="17755000" />
       <workItem from="1659916316633" duration="301000" />
       <workItem from="1659929592650" duration="17796000" />
-      <workItem from="1660003841656" duration="12367000" />
+      <workItem from="1660003841656" duration="13281000" />
     </task>
     <servers />
   </component>
