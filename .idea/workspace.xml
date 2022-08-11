@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/day220809/src/com/ssafy/swe/SWE_1861.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220809/src/com/ssafy/boj/BOJ_2563.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220810/day220810.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220810/src/com/april2nds/boj/end/BOJ_10163.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220810/src/com/april2nds/boj/ing/BOJ_16926.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220810/src/com/april2nds/boj/ing/BOJ_16935.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220810/src/com/april2nds/boj/ing/BOJ_17406_배열_돌리기_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220811/day220811.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220811/src/com/ssafy/live/CompleteBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220811/src/com/ssafy/live/CompleteBinaryTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220809/com/ssafy/swe/SWE_6808.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220809/com/ssafy/swe/SWE_6808.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220809/com/ssafy/swe/SWE_1861.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220809/com/ssafy/swe/SWE_1861.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +73,39 @@
       <recent name="com.ssafy.json" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SWE_1861">
-    <configuration name="SWE_1233" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.swe.SWE_1233" />
+  <component name="RunManager" selected="Application.CompleteBinaryTreeTest">
+    <configuration name="BOJ_16935" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nds.boj.ing.BOJ_16935" />
+      <module name="day220810" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.april2nds.boj.ing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_2563" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.boj.BOJ_2563" />
       <module name="day220809" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.swe.*" />
+          <option name="PATTERN" value="com.ssafy.boj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompleteBinaryTreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.CompleteBinaryTreeTest" />
+      <module name="day220811" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssafy.live.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,38 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWE_6808" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.swe.SWE_6808" />
-      <module name="day220809" />
+    <configuration name="com.april2nds.boj.end.BOJ_10163" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nds.boj.end.BOJ_10163" />
+      <module name="day220810" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.swe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SWE_9229" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.swe.SWE_9229" />
-      <module name="day220808" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ssafy.swe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.swe.Test" />
-      <module name="day220809" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ssafy.swe.*" />
+          <option name="PATTERN" value="com.april2nds.boj.ing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +154,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompleteBinaryTreeTest" />
+        <item itemvalue="Application.com.april2nds.boj.end.BOJ_10163" />
+        <item itemvalue="Application.BOJ_2563" />
         <item itemvalue="Application.SWE_1861" />
-        <item itemvalue="Application.SWE_6808" />
-        <item itemvalue="Application.SWE_1233" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.SWE_9229" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +194,8 @@
       <workItem from="1659916316633" duration="301000" />
       <workItem from="1659929592650" duration="17796000" />
       <workItem from="1660003841656" duration="20657000" />
+      <workItem from="1660034301342" duration="24358000" />
+      <workItem from="1660176298419" duration="3859000" />
     </task>
     <servers />
   </component>
