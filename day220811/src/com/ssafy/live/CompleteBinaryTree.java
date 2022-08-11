@@ -77,4 +77,34 @@ public class CompleteBinaryTree {
         }
         System.out.println();
     }
+
+    public void dfsByPreOrder(int current){ // 전위 탐색
+        if(current > lastIndex) return;
+
+        dfsByPreOrder(current * 2);
+        dfsByPreOrder(current * 2 + 1);
+    }
+
+//    public void dfsByInOrder(int current){ // 중위 탐색
+//        if(current * 2 <= lastIndex) dfsByInOrder(current * 2);
+//        System.out.print(nodes[current] + " ");
+//        if(current * 2 + 1 <= lastIndex) dfsByInOrder(current * 2 + 1);
+//    }
+
+    public void dfsByInOrder(int current){ // 중위 탐색, 기저 조건 설정
+        if(current > lastIndex) return;
+
+        dfsByInOrder(current * 2);
+        System.out.print(nodes[current] + " ");
+        dfsByInOrder(current * 2 + 1);
+    }
+
+    public void dfsByPostOrder(int current){ // 후위 탐색
+        if(current > lastIndex) return;
+
+        dfsByPostOrder(current * 2);
+        dfsByPostOrder(current * 2 + 1);
+        System.out.print(nodes[current] + " ");
+    }
+
 }

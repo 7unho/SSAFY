@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/day220809/src/com/ssafy/boj/BOJ_2563.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220810/day220810.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220810/src/com/april2nds/boj/end/BOJ_10163.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220810/src/com/april2nds/boj/ing/BOJ_16926.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220810/src/com/april2nds/boj/ing/BOJ_16935.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220810/src/com/april2nds/boj/ing/BOJ_17406_배열_돌리기_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220811/day220811.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220811/src/com/ssafy/live/CompleteBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220811/src/com/ssafy/live/CompleteBinaryTreeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220811/src/com/ssafy/live/NextPermutationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220811/src/com/ssafy/live/PermutationBitMaskingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220811/src/com/ssafy/swe/SWE_5215_햄버거_다이어트.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220809/com/ssafy/swe/SWE_1861.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220809/com/ssafy/swe/SWE_1861.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220811/src/com/ssafy/live/CompleteBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220811/src/com/ssafy/live/CompleteBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220811/src/com/ssafy/live/CompleteBinaryTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220811/src/com/ssafy/live/CompleteBinaryTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220811/com/ssafy/live/CompleteBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220811/com/ssafy/live/CompleteBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220811/com/ssafy/live/CompleteBinaryTreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220811/com/ssafy/live/CompleteBinaryTreeTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,33 +69,7 @@
       <recent name="com.ssafy.json" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CompleteBinaryTreeTest">
-    <configuration name="BOJ_16935" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nds.boj.ing.BOJ_16935" />
-      <module name="day220810" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.april2nds.boj.ing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_2563" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.boj.BOJ_2563" />
-      <module name="day220809" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ssafy.boj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NextPermutationTest">
     <configuration name="CompleteBinaryTreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ssafy.live.CompleteBinaryTreeTest" />
       <module name="day220811" />
@@ -113,9 +83,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWE_1861" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.swe.SWE_1861" />
-      <module name="day220809" />
+    <configuration name="NextPermutationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.NextPermutationTest" />
+      <module name="day220811" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssafy.live.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermutationBitMaskingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.PermutationBitMaskingTest" />
+      <module name="day220811" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssafy.live.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SWE_5215_햄버거_다이어트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.swe.SWE_5215_햄버거_다이어트" />
+      <module name="day220811" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ssafy.swe.*" />
@@ -154,10 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NextPermutationTest" />
+        <item itemvalue="Application.PermutationBitMaskingTest" />
+        <item itemvalue="Application.SWE_5215_햄버거_다이어트" />
         <item itemvalue="Application.CompleteBinaryTreeTest" />
         <item itemvalue="Application.com.april2nds.boj.end.BOJ_10163" />
-        <item itemvalue="Application.BOJ_2563" />
-        <item itemvalue="Application.SWE_1861" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +192,7 @@
       <workItem from="1659929592650" duration="17796000" />
       <workItem from="1660003841656" duration="20657000" />
       <workItem from="1660034301342" duration="24358000" />
-      <workItem from="1660176298419" duration="3859000" />
+      <workItem from="1660176298419" duration="14648000" />
     </task>
     <servers />
   </component>
