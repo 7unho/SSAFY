@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/day220811/src/com/ssafy/swe/BOJ_2961_도영이가_만든_맛있는_음식.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220811/src/com/ssafy/boj/BOJ_3040_백설공주와_일곱난쟁이.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220812/day220812.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220812/src/com/ssafy/live/Main_2961_도영이가_만든_맛있는_음식.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220812/src/com/ssafy/live/Recursive1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220812/src/com/ssafy/live/Recursive2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220812/src/com/ssafy/live/Recursive3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220812/src/com/ssafy/live/Recursive4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220811/src/com/ssafy/swe/BOJ_2961_도영이가_만든_맛있는_음식.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220811/src/com/ssafy/boj/BOJ_2961_도영이가_만든_맛있는_음식.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220811/com/ssafy/swe/BOJ_2961_도영이가_만든_맛있는_음식.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,27 +68,15 @@
       <recent name="$PROJECT_DIR$/day220722/src/com/ssafy/poly/mission3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ssafy.live" />
       <recent name="com.ssafy.gui" />
       <recent name="com.ssafy.json" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_2961_도영이가_만든_맛있는_음식">
-    <configuration name="BOJ_2961_도영이가_만든_맛있는_음식" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.swe.BOJ_2961_도영이가_만든_맛있는_음식" />
-      <module name="day220811" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ssafy.swe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CompleteBinaryTreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.CompleteBinaryTreeTest" />
-      <module name="day220811" />
+  <component name="RunManager" selected="Application.Main_2961_도영이가_만든_맛있는_음식">
+    <configuration name="Main_2961_도영이가_만든_맛있는_음식" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.Main_2961_도영이가_만든_맛있는_음식" />
+      <module name="day220812" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ssafy.live.*" />
@@ -90,9 +87,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextPermutationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.NextPermutationTest" />
-      <module name="day220811" />
+    <configuration name="SubSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubSet" />
+      <module name="day220812" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ssafy.live.Combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.Combination" />
+      <module name="day220812" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ssafy.live.*" />
@@ -103,9 +107,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationBitMaskingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.PermutationBitMaskingTest" />
-      <module name="day220811" />
+    <configuration name="com.ssafy.live.Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.Permutation" />
+      <module name="day220812" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ssafy.live.*" />
@@ -116,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWE_5215_햄버거_다이어트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.swe.SWE_5215_햄버거_다이어트" />
-      <module name="day220811" />
+    <configuration name="com.ssafy.live.Recursive4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.Recursive4" />
+      <module name="day220812" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.swe.*" />
+          <option name="PATTERN" value="com.ssafy.live.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ_2961_도영이가_만든_맛있는_음식" />
-        <item itemvalue="Application.NextPermutationTest" />
-        <item itemvalue="Application.PermutationBitMaskingTest" />
-        <item itemvalue="Application.SWE_5215_햄버거_다이어트" />
-        <item itemvalue="Application.CompleteBinaryTreeTest" />
+        <item itemvalue="Application.Main_2961_도영이가_만든_맛있는_음식" />
+        <item itemvalue="Application.SubSet" />
+        <item itemvalue="Application.com.ssafy.live.Permutation" />
+        <item itemvalue="Application.com.ssafy.live.Combination" />
+        <item itemvalue="Application.com.ssafy.live.Recursive4" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +190,9 @@
       <workItem from="1659929592650" duration="17796000" />
       <workItem from="1660003841656" duration="20657000" />
       <workItem from="1660034301342" duration="24358000" />
-      <workItem from="1660176298419" duration="19433000" />
+      <workItem from="1660176298419" duration="19500000" />
+      <workItem from="1660261617881" duration="5598000" />
+      <workItem from="1660267490036" duration="3208000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-package com.ssafy.swe;
+package com.ssafy.boj;
 
 import java.io.BufferedReader;
 import java.io.IOException;
