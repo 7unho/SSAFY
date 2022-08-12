@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/day220811/src/com/ssafy/boj/BOJ_3040_백설공주와_일곱난쟁이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220812/day220812.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220812/src/com/ssafy/live/Main_2961_도영이가_만든_맛있는_음식.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220812/src/com/ssafy/live/Recursive1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220812/src/com/ssafy/live/Recursive2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220812/src/com/ssafy/live/Recursive3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220812/src/com/ssafy/live/Recursive4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220811/src/com/ssafy/boj/BOJ_15686_치킨_배달.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220811/src/com/ssafy/swe/BOJ_2961_도영이가_만든_맛있는_음식.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220811/src/com/ssafy/boj/BOJ_2961_도영이가_만든_맛있는_음식.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220811/com/ssafy/swe/BOJ_2961_도영이가_만든_맛있는_음식.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +64,7 @@
       <recent name="com.ssafy.json" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main_2961_도영이가_만든_맛있는_음식">
+  <component name="RunManager" selected="Application.com.april2nds.boj.BOJ_15686_치킨_배달">
     <configuration name="Main_2961_도영이가_만든_맛있는_음식" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ssafy.live.Main_2961_도영이가_만든_맛있는_음식" />
       <module name="day220812" />
@@ -90,6 +81,19 @@
     <configuration name="SubSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SubSet" />
       <module name="day220812" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.april2nds.boj.BOJ_15686_치킨_배달" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nds.boj.BOJ_15686_치킨_배달" />
+      <module name="day220812" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.april2nds.boj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,19 +124,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ssafy.live.Recursive4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.Recursive4" />
-      <module name="day220812" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ssafy.live.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="JAVA" />
       <method v="2">
@@ -148,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main_2961_도영이가_만든_맛있는_음식" />
+        <item itemvalue="Application.com.april2nds.boj.BOJ_15686_치킨_배달" />
         <item itemvalue="Application.SubSet" />
+        <item itemvalue="Application.Main_2961_도영이가_만든_맛있는_음식" />
         <item itemvalue="Application.com.ssafy.live.Permutation" />
         <item itemvalue="Application.com.ssafy.live.Combination" />
-        <item itemvalue="Application.com.ssafy.live.Recursive4" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +183,7 @@
       <workItem from="1660034301342" duration="24358000" />
       <workItem from="1660176298419" duration="19500000" />
       <workItem from="1660261617881" duration="5598000" />
-      <workItem from="1660267490036" duration="3208000" />
+      <workItem from="1660267490036" duration="12248000" />
     </task>
     <servers />
   </component>
@@ -223,6 +214,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="3" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="5" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
