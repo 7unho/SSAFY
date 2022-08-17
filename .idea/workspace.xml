@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/day220816/day220816.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220816/src/com/april2nds/boj/BOJ_1074_Z.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220816/src/com/april2nds/boj/BOJ_2839_설탕배달.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220816/src/com/april2nds/jungol/JO_1828_냉장고.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220816/src/com/ssafy/live/SquareNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220816/src/com/ssafy/live/동전자판기_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220817/day220817.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220817/src/com/april2nd/boj/BOJ_15683_감시.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220817/src/com/april2nd/swe/SWE_5644_무선충전.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220817/src/com/ssafy/live/JO_1828_냉장고.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -70,13 +68,13 @@
       <recent name="com.ssafy.json" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JO_1828_냉장고">
-    <configuration name="BOJ_2839_설탕배달" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nds.boj.BOJ_2839_설탕배달" />
-      <module name="day220816" />
+  <component name="RunManager" selected="Application.BOJ_15683_감시">
+    <configuration name="BOJ_15683_감시" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nd.boj.BOJ_15683_감시" />
+      <module name="day220817" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.april2nds.boj.*" />
+          <option name="PATTERN" value="com.april2nd.boj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWE_4012_요리사" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nds.swe.SWE_4012_요리사" />
-      <module name="day220812" />
+    <configuration name="SWE_5644_무선충전" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nd.swe.SWE_5644_무선충전" />
+      <module name="day220817" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.april2nds.swe.*" />
+          <option name="PATTERN" value="com.april2nd.swe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_15683_감시" />
+        <item itemvalue="Application.SWE_5644_무선충전" />
         <item itemvalue="Application.JO_1828_냉장고" />
         <item itemvalue="Application.SquareNumberTest" />
         <item itemvalue="Application.동전자판기_Test" />
-        <item itemvalue="Application.BOJ_2839_설탕배달" />
-        <item itemvalue="Application.SWE_4012_요리사" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +195,7 @@
       <workItem from="1660261617881" duration="5598000" />
       <workItem from="1660267490036" duration="15805000" />
       <workItem from="1660293299204" duration="54000" />
-      <workItem from="1660620886442" duration="13150000" />
+      <workItem from="1660620886442" duration="35630000" />
     </task>
     <servers />
   </component>
