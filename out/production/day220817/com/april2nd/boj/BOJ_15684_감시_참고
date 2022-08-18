@@ -1,0 +1,132 @@
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.StringTokenizer;
+
+
+class cctv{
+	int x,y,num,dir;
+	public cctv(int x, int y,int num) {
+		this.x = x;
+		this.y = y;
+		this.num = num;
+	}
+}
+
+public class Main{
+	
+	static int N,M;
+	static int[][] arr, newarr;
+	static int[] dx = {1,0,-1,0};
+	static int[] dy = {0,1,0,-1};
+	static List<cctv> cctvList;
+	static int answer = Integer.MAX_VALUE;
+	
+	static void cctvshowstraight(int next_x, int next_y, int dir) { // (x,y) 좌표에 있는 cctv를 dir 방향으로 쭉 보며 체크해주기.
+		while(true) {
+			if(next_x<0||next_y<0||next_x>=M||next_y>=N) break;
+			if(newarr[next_y][next_x]==6) break;
+			if(newarr[next_y][next_x]==0) newarr[next_y][next_x] = 9;
+			next_x += dx[dir];
+			next_y += dy[dir];
+		}
+	}
+	
+	static void cctvshow(cctv cctv) { 
+		// cctvlist에 저장된 cctv 좌표와 방향을 사용해서 배열에서 cctv가 볼 수 있는곳을 체크해준다.
+		int x = cctv.x;
+		int y = cctv.y;
+		int n = cctv.num;
+		int dir = cctv.dir;
+
+		if(n==1) 
+			cctvshowstraight(x,y,dir); // cctv가 1번일 경우 한쪽으로만 쭉 체크
+		
+		else if(n==2) {  // cctv가 1번일 경우 한쪽을 보고, 그 반대 방향을 체크
+			for(int i = 1 ; i <= 2; i++) {
+				cctvshowstraight(x,y,dir);
+				dir = (dir+2)%4;
+			}		
+		}
+		else {		//// cctv가 3번,4번,5번일 경우  각각 초기 방향 dir을 포함한 2방향, 3방향, 4방향 체크
+			for(int i = 1 ; i <= n - 1 ; i++) {
+				cctvshowstraight(x,y,dir);
+				dir = (dir+1)%4;
+			}
+		}
+	}
+	
+	static void setmap() {
+		newarr = new int[N][M];  
+		// 얻은 조합을 가지고 지도에 표시해 주어야 하기 때문에,  최초 배열을 복사해서 새 배열을 만들어주고, 그곳에 본 지역 체크.
+		for(int i =0 ; i<N;i++)
+			System.arraycopy(arr[i], 0, newarr[i], 0, M);
+
+		for(int i = 0 ; i < cctvList.size() ; i++)
+			cctvshow(cctvList.get(i));
+		
+		int cnt = 0;
+		
+		
+		//cctvshow를 통해 새 배열에 cctv들이 바라보는 곳을 다 체크해 주었을 경우, 새 배열을 다 돌면서 체크되지 않은 사각지대 카운트
+		for(int i = 0 ; i < N;i++)
+			for(int j = 0 ; j < M; j++)
+				if(newarr[i][j]==0) cnt++;
+
+		//다른 조합으로 얻은 결과들과도 비교해야 되기 때문에, 최소값인지 체크해서 저장.
+		answer = Math.min(answer, cnt);
+	}
+	
+	
+	static void dfs(int idx) {
+		if(idx == cctvList.size()) { // 조합이 만들어졌으면 setmap 실행
+			setmap();
+			return;
+		}
+
+		int n = cctvList.get(idx).num;
+			
+		if(n==1 || n==3 || n==4) {  //1번,3번,4번 cctv이면, 4방향을 보는 4가지 경우의 수를 조합으로 구성
+			for(int i = 0 ;i < 4; i++) {
+				cctvList.get(idx).dir = i;
+				dfs(idx+1);
+			}
+		}
+		else if(n==2) {
+			for(int i = 0 ;i < 2; i++) { // 2번  cctv이면,  상하 혹은 좌우 를 보는 경우의 수를 조합으로 구성
+				cctvList.get(idx).dir = i;
+				dfs(idx+1);
+			}
+		}
+		else if(n==5) {
+			cctvList.get(idx).dir = 0;  // 5번이면 경우의 수가 1개밖에 없음
+			dfs(idx+1);
+		}		
+	}
+	
+	public static void main(String[] args) throws Exception {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st = new StringTokenizer(br.readLine());
+		N = Integer.parseInt(st.nextToken());
+		M = Integer.parseInt(st.nextToken());
+		arr = new int[N][M];
+		cctvList = new ArrayList<cctv>();
+		//cctv 객체가 가지고 있는것 : x좌표, y좌표, cctv 자체의 번호, 바라보고 있는 방향
+		
+		
+		//입력받기
+		for(int i = 0 ; i < N;i++) {
+			st = new StringTokenizer(br.readLine());
+			for(int j = 0 ; j < M; j++) {
+				arr[i][j] = Integer.parseInt(st.nextToken());
+				if(arr[i][j] != 0 && arr[i][j] != 6)
+					cctvList.add(new cctv(j,i,arr[i][j]));	//1-5번 칸이면 cctv list에 cctv 추가.
+			}	
+		}
+		
+		//각각의 cctv들의 방향을 가지고 만들수 있는 조합 구하기.
+		dfs(0);
+		System.out.println(answer);		
+	}
+}
