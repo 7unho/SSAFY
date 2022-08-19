@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/day220817/src/com/april2nd/boj/BOJ_1541_잃어버린_괄호.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220817/src/com/april2nd/boj/BOJ_1992_쿼드트리.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220817/src/com/ssafy/live/Live_같은_색_공간_만들기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220818/day220818.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220818/src/com/april2nd/boj/BOJ_3109_빵집.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220818/src/com/april2nd/boj/live/BOJ_3109_빵집.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220818/src/com/april2nd/boj/live/N_Queen_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220818/src/com/april2nd/boj/live/SubSetSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220818/src/com/april2nd/swe/SWE_1247_최적경로.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220819/day220819.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220819/src/com/april2nd/boj/BOJ_1987_알파벳.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220819/src/com/ssafy/live/BOJ_1987_알파벳_live.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220819/src/com/ssafy/live/BOJ_1992_쿼드트리_live.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220817/com/april2nd/boj/BOJ_15683_감시.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220818/src/com/april2nd/boj/live/BOJ_3109_빵집.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220818/src/com/ssafy/live/BOJ_3109_빵집.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220818/src/com/april2nd/boj/live/N_Queen_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220818/src/com/ssafy/live/N_Queen_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220818/src/com/april2nd/boj/live/SubSetSumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220818/src/com/ssafy/live/SubSetSumTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,10 +72,10 @@
       <recent name="com.ssafy.json" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.ssafy.live.BOJ_3109_빵집">
-    <configuration name="BOJ_1992_쿼드트리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nd.boj.BOJ_1992_쿼드트리" />
-      <module name="day220817" />
+  <component name="RunManager" selected="Application.BOJ_1987_알파벳_live">
+    <configuration name="BOJ_1987_알파벳" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nd.boj.BOJ_1987_알파벳" />
+      <module name="day220819" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.april2nd.boj.*" />
@@ -89,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_3109_빵집" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nd.boj.BOJ_3109_빵집" />
-      <module name="day220818" />
+    <configuration name="BOJ_1987_알파벳_live" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.BOJ_1987_알파벳_live" />
+      <module name="day220819" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.april2nd.boj.*" />
+          <option name="PATTERN" value="com.ssafy.live.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,9 +99,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N_Queen_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.N_Queen_Test" />
-      <module name="day220818" />
+    <configuration name="BOJ_1992_쿼드트리_live" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.BOJ_1992_쿼드트리_live" />
+      <module name="day220819" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ssafy.live.*" />
@@ -156,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_1987_알파벳_live" />
+        <item itemvalue="Application.BOJ_1992_쿼드트리_live" />
+        <item itemvalue="Application.BOJ_1987_알파벳" />
         <item itemvalue="Application.com.ssafy.live.BOJ_3109_빵집" />
         <item itemvalue="Application.SubSetSumTest" />
-        <item itemvalue="Application.BOJ_3109_빵집" />
-        <item itemvalue="Application.N_Queen_Test" />
-        <item itemvalue="Application.BOJ_1992_쿼드트리" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +199,7 @@
       <workItem from="1660261617881" duration="5598000" />
       <workItem from="1660267490036" duration="15805000" />
       <workItem from="1660293299204" duration="54000" />
-      <workItem from="1660620886442" duration="60313000" />
+      <workItem from="1660620886442" duration="67140000" />
     </task>
     <servers />
   </component>

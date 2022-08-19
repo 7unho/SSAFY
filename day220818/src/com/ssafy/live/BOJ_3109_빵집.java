@@ -1,4 +1,4 @@
-package com.april2nd.boj.live;
+package com.ssafy.live;
 
 import java.io.BufferedReader;
 import java.io.IOException;
