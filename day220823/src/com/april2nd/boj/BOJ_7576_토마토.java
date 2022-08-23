@@ -8,7 +8,7 @@ import java.util.*;
 public class BOJ_7576_토마토 {
     static int N, M;
     static int[][] graph;
-    static boolean[][] visited;
+//    static boolean[][] visited;
     static int[] dx = {0, 0, -1, 1};
     static int[] dy = {1, -1, 0, 0};
     static Queue<int[]> queue;
@@ -23,7 +23,7 @@ public class BOJ_7576_토마토 {
         queue = new LinkedList<>();
 
         graph = new int[N][M];
-        visited = new boolean[N][M];
+//        visited = new boolean[N][M];
 
         for (int i = 0; i < N; i++) {
             st = new StringTokenizer(br.readLine());
@@ -46,9 +46,9 @@ public class BOJ_7576_토마토 {
                 int nx = points[0] + dx[i];
                 int ny = points[1] + dy[i];
 
-                if(nx >= 0 && nx < N && ny >= 0 && ny < M && !visited[nx][ny]){
+                if(nx >= 0 && nx < N && ny >= 0 && ny < M){
                     if(graph[nx][ny] == 0){
-                        visited[nx][ny] = true;
+//                        visited[nx][ny] = true;
                         graph[nx][ny] = graph[points[0]][points[1]] + 1;
                         queue.offer(new int[]{nx, ny});
                     }

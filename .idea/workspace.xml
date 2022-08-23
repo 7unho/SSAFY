@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/day220823/day220823.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220823/src/com/april2nd/boj/BOJ_16236_아기상어.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220823/src/com/april2nd/boj/BOJ_7576_토마토.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220823/src/com/april2nd/swe/SWE_12348_Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220823/src/com/april2nd/boj/BOJ_10026_적록색약.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220823/src/com/april2nd/boj/BOJ_3055_탈출.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220823/src/com/april2nd/boj/BOJ_7576_토마토.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220823/src/com/april2nd/boj/BOJ_7576_토마토.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220823/com/april2nd/boj/BOJ_7576_토마토.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220823/com/april2nd/boj/BOJ_7576_토마토.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <recent name="com.ssafy.json" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_7576_토마토">
+  <component name="RunManager" selected="Application.BOJ_3055_탈출">
     <configuration name="BOJ_1697_숨바꼭질" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.april2nd.boj.BOJ_1697_숨바꼭질" />
       <module name="day220819" />
@@ -109,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_7576_토마토" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nd.boj.BOJ_7576_토마토" />
+    <configuration name="BOJ_3055_탈출" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nd.boj.BOJ_3055_탈출" />
       <module name="day220823" />
       <extension name="coverage">
         <pattern>
@@ -122,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.april2nd.swe.SWE_3234_준환이의_양팔저울" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nd.swe.SWE_3234_준환이의_양팔저울" />
-      <module name="day220819" />
+    <configuration name="BOJ_7576_토마토" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nd.boj.BOJ_7576_토마토" />
+      <module name="day220823" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.april2nd.swe.*" />
+          <option name="PATTERN" value="com.april2nd.boj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_3055_탈출" />
         <item itemvalue="Application.BOJ_7576_토마토" />
         <item itemvalue="Application.BOJ_1759_암호_만들기" />
         <item itemvalue="Application.BOJ_1697_숨바꼭질" />
         <item itemvalue="Application.BOJ_17135_캐슬_디펜스" />
-        <item itemvalue="Application.com.april2nd.swe.SWE_3234_준환이의_양팔저울" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +197,7 @@
       <workItem from="1660293299204" duration="54000" />
       <workItem from="1660620886442" duration="83347000" />
       <workItem from="1661139973682" duration="3447000" />
-      <workItem from="1661214275702" duration="7930000" />
+      <workItem from="1661214275702" duration="15307000" />
     </task>
     <servers />
   </component>
