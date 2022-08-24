@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/day220823/src/com/april2nd/boj/BOJ_10026_적록색약.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220823/src/com/april2nd/boj/BOJ_3055_탈출.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220824/day220824.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220824/src/com/april2nd/boj/BOJ_13023_ABCDE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220824/src/com/april2nd/boj/SWE_3124_최소_스패닝_트리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220824/src/com/april2nd/boj/SWE_3289_서로소집합.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220824/src/com/ssafy/live/DisjointSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220824/src/com/ssafy/live/MST2_Prim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220823/src/com/april2nd/boj/BOJ_7576_토마토.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220823/src/com/april2nd/boj/BOJ_7576_토마토.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220823/com/april2nd/boj/BOJ_7576_토마토.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220823/com/april2nd/boj/BOJ_7576_토마토.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220823/src/com/april2nd/boj/BOJ_10026_적록색약.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,36 +72,10 @@
       <recent name="com.ssafy.json" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_3055_탈출">
-    <configuration name="BOJ_1697_숨바꼭질" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nd.boj.BOJ_1697_숨바꼭질" />
-      <module name="day220819" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.april2nd.boj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_17135_캐슬_디펜스" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nd.boj.BOJ_17135_캐슬_디펜스" />
-      <module name="day220819" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.april2nd.boj.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_1759_암호_만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nd.boj.BOJ_1759_암호_만들기" />
-      <module name="day220822" />
+  <component name="RunManager" selected="Application.SWE_3289_서로소집합">
+    <configuration name="BOJ_13023_ABCDE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nd.boj.BOJ_13023_ABCDE" />
+      <module name="day220824" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.april2nd.boj.*" />
@@ -121,9 +99,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_7576_토마토" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nd.boj.BOJ_7576_토마토" />
-      <module name="day220823" />
+    <configuration name="DisjointSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.DisjointSetTest" />
+      <module name="day220824" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssafy.live.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MST2_Prim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.MST2_Prim" />
+      <module name="day220824" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssafy.live.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SWE_3289_서로소집합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nd.boj.SWE_3289_서로소집합" />
+      <module name="day220824" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.april2nd.boj.*" />
@@ -149,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SWE_3289_서로소집합" />
+        <item itemvalue="Application.BOJ_13023_ABCDE" />
+        <item itemvalue="Application.MST2_Prim" />
+        <item itemvalue="Application.DisjointSetTest" />
         <item itemvalue="Application.BOJ_3055_탈출" />
-        <item itemvalue="Application.BOJ_7576_토마토" />
-        <item itemvalue="Application.BOJ_1759_암호_만들기" />
-        <item itemvalue="Application.BOJ_1697_숨바꼭질" />
-        <item itemvalue="Application.BOJ_17135_캐슬_디펜스" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +201,9 @@
       <workItem from="1660293299204" duration="54000" />
       <workItem from="1660620886442" duration="83347000" />
       <workItem from="1661139973682" duration="3447000" />
-      <workItem from="1661214275702" duration="15307000" />
+      <workItem from="1661214275702" duration="16830000" />
+      <workItem from="1661262798239" duration="161000" />
+      <workItem from="1661299384701" duration="18220000" />
     </task>
     <servers />
   </component>
