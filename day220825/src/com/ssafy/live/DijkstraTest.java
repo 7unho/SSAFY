@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public interface DijkstraTest {
+public class DijkstraTest {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int V = Integer.parseInt(br.readLine());
@@ -53,7 +53,6 @@ public interface DijkstraTest {
                 }
             }
         }
-        System.out.println(Arrays.toString(D));
         System.out.println(D[end]);
         br.close();
     }

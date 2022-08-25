@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/day220825/day220825.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220825/src/com/april2nd/boj/BOJ_4485_젤다.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220825/src/com/ssafy/live/DijkstraTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220825/src/com/ssafy/live/PrimTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220825/src/com/ssafy/live/PrimTest2_PQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220825/src/com/ssafy/live/TopologySortTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220825/src/com/april2nd/boj/BOJ_1753_최단경로.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220824/src/com/april2nd/boj/SWE_3124_최소_스패닝_트리.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220824/src/com/april2nd/swe/SWE_3124_최소_스패닝_트리.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220824/src/com/april2nd/boj/SWE_3289_서로소집합.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220824/src/com/april2nd/swe/SWE_3289_서로소집합.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220825/src/com/april2nd/boj/BOJ_4485_젤다.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220825/src/com/april2nd/boj/BOJ_4485_젤다.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220825/src/com/ssafy/live/DijkstraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220825/src/com/ssafy/live/DijkstraTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +198,7 @@
       <workItem from="1661139973682" duration="3447000" />
       <workItem from="1661214275702" duration="16830000" />
       <workItem from="1661262798239" duration="161000" />
-      <workItem from="1661299384701" duration="33603000" />
+      <workItem from="1661299384701" duration="37103000" />
     </task>
     <servers />
   </component>

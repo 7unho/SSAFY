@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 // 최소로 잃는 경로 찾기
-public class BOJ_4485_젤다 {
+public class BOJ_4485_젤다_ing {
     static int N;
     static int[][] map;
     public static void main(String[] args) throws IOException {
