@@ -1,4 +1,4 @@
-package com.april2nd.boj;
+package com.april2nd.swe;
 
 import java.io.BufferedReader;
 import java.io.IOException;
