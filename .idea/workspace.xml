@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/day220825/src/com/april2nd/boj/BOJ_1753_최단경로.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220826/day220826.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220826/src/com/april2nd/boj/BOJ_17144_미세먼지.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220826/src/com/ssafy/live/BOJ_4485_젤다_Live.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220826/src/com/ssafy/live/JO_1681_해밀턴_순환회로.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220825/src/com/april2nd/boj/BOJ_4485_젤다.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220825/src/com/april2nd/boj/BOJ_4485_젤다.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220825/src/com/ssafy/live/DijkstraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220825/src/com/ssafy/live/DijkstraTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +69,33 @@
       <recent name="com.ssafy.json" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TopologySortTest">
+  <component name="RunManager" selected="Application.BOJ_17144_미세먼지">
+    <configuration name="BOJ_17144_미세먼지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nd.boj.BOJ_17144_미세먼지" />
+      <module name="day220826" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.april2nd.boj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_4485_젤다_Live" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.BOJ_4485_젤다_Live" />
+      <module name="day220826" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssafy.live.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DijkstraTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ssafy.live.DijkstraTest" />
       <module name="day220825" />
@@ -81,41 +109,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.PrimTest" />
-      <module name="day220825" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ssafy.live.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimTest2_PQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.live.PrimTest2_PQ" />
-      <module name="day220825" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ssafy.live.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SWE_3289_서로소집합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nd.swe.SWE_3289_서로소집합" />
-      <module name="day220824" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.april2nd.swe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Main_BJ_4485_녹색옷입은애가젤다지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_BJ_4485_녹색옷입은애가젤다지" />
+      <module name="day220826" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_17144_미세먼지" />
+        <item itemvalue="Application.Main_BJ_4485_녹색옷입은애가젤다지" />
+        <item itemvalue="Application.BOJ_4485_젤다_Live" />
         <item itemvalue="Application.TopologySortTest" />
         <item itemvalue="Application.DijkstraTest" />
-        <item itemvalue="Application.PrimTest2_PQ" />
-        <item itemvalue="Application.PrimTest" />
-        <item itemvalue="Application.com.april2nd.boj.SWE_3289_서로소집합" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +194,7 @@
       <workItem from="1661139973682" duration="3447000" />
       <workItem from="1661214275702" duration="16830000" />
       <workItem from="1661262798239" duration="161000" />
-      <workItem from="1661299384701" duration="37103000" />
+      <workItem from="1661299384701" duration="49886000" />
     </task>
     <servers />
   </component>
