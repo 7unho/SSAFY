@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AlgorithmTest/AlgorithmTest.iml" filepath="$PROJECT_DIR$/AlgorithmTest/AlgorithmTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SSAFY.iml" filepath="$PROJECT_DIR$/.idea/SSAFY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day220915/board1_servlet/board1_servlet.iml" filepath="$PROJECT_DIR$/day220915/board1_servlet/board1_servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/day220721/day220721.iml" filepath="$PROJECT_DIR$/day220721/day220721.iml" />
       <module fileurl="file://$PROJECT_DIR$/day220722/day220722.iml" filepath="$PROJECT_DIR$/day220722/day220722.iml" />
       <module fileurl="file://$PROJECT_DIR$/day220725/day220725.iml" filepath="$PROJECT_DIR$/day220725/day220725.iml" />
@@ -30,6 +31,8 @@
       <module fileurl="file://$PROJECT_DIR$/day220824/day220824.iml" filepath="$PROJECT_DIR$/day220824/day220824.iml" />
       <module fileurl="file://$PROJECT_DIR$/day220825/day220825.iml" filepath="$PROJECT_DIR$/day220825/day220825.iml" />
       <module fileurl="file://$PROJECT_DIR$/day220826/day220826.iml" filepath="$PROJECT_DIR$/day220826/day220826.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day220902/day220902.iml" filepath="$PROJECT_DIR$/day220902/day220902.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day220914/day220914.iml" filepath="$PROJECT_DIR$/day220914/day220914.iml" />
     </modules>
   </component>
 </project>
