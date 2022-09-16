@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+<!--    서블릿 등록-->
+<!--    <servlet>-->
+<!--        <servlet-name>my</servlet-name>-->
+<!--        <servlet-class>com.april2nd.live1.MyServlet</servlet-class>-->
+<!--    </servlet>-->
+<!--    <servlet>-->
+<!--        <servlet-name>you</servlet-name>-->
+<!--        <servlet-class>com.april2nd.live1.MyServlet</servlet-class>-->
+<!--    </servlet>-->
+<!--    <servlet>-->
+<!--        <servlet-name>we</servlet-name>-->
+<!--        <servlet-class>com.april2nd.live1.MyServlet</servlet-class>-->
+<!--    </servlet>-->
+
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>my</servlet-name>-->
+<!--&lt;!&ndash;        가상경로&ndash;&gt;-->
+<!--        <url-pattern>/a/b/my.do</url-pattern>-->
+<!--    </servlet-mapping>-->
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>you</servlet-name>-->
+<!--&lt;!&ndash;        가상경로&ndash;&gt;-->
+<!--        <url-pattern>/a/b/you.do</url-pattern>-->
+<!--    </servlet-mapping>-->
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>we</servlet-name>-->
+<!--&lt;!&ndash;        가상경로&ndash;&gt;-->
+<!--        <url-pattern>/a/b/we.do</url-pattern>-->
+<!--    </servlet-mapping>-->
+</web-app>

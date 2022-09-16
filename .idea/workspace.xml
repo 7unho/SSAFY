@@ -10,92 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/board1_servlet_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day220915_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_servlet_api.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board1_servlet/board1_servlet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/board1_servlet/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220906/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220906/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220906/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220906/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220906/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220906/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220906/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220906/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220906/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220906/src/main/java/com/april2nd/day220906/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220906/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220906/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/.idea/artifacts/HelloJSP_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/.idea/artifacts/board1_servlet_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/.idea/artifacts/board2_jsp_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/.idea/libraries/javax_servlet_api.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/.idea/libraries/mysql_connector_java_8_0_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/HelloJSP/HelloJSP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/HelloJSP/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/HelloJSP/web/assets/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/HelloJSP/web/board/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/HelloJSP/web/board/list.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/HelloJSP/web/board/modify.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/HelloJSP/web/board/modify.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/HelloJSP/web/board/register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/HelloJSP/web/board/result.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/HelloJSP/web/board/view.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/HelloJSP/web/board/view.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/HelloJSP/web/board/write.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/board1_servlet/board1_servlet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/board1_servlet/src/com/april2nd/board/BoardList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/board1_servlet/src/com/april2nd/board/BoardView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/board1_servlet/src/com/april2nd/board/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/board1_servlet/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/board1_servlet/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/board1_servlet/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/board2_jsp/board2_jsp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/board2_jsp/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220915/day220915.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmTest/AlgorithmTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmTest/AlgorithmTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220826/src/com/april2nd/swe/SWE_4013_특이한_자석.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220826/src/com/april2nd/swe/SWE_4013_특이한_자석.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220902/src/com/april2nd/live/EchoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220902/src/com/april2nd/live/EchoClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220902/src/com/april2nd/live/EchoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220902/src/com/april2nd/live/EchoServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220902/src/com/april2nd/live/SEOUL13_KIMJUNHO.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220902/src/com/april2nd/live/SEOUL13_KIMJUNHO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220914/day220914.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day220914/day220914.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220914/src/com.april2nd.live/JDBCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220914/src/com.april2nd.live/JDBCTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmTest/com/april2nds/swe/SWE_1289.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmTest/com/april2nds/swe/SWE_1289.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220721/com/ssafy/ws/step3/BookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220721/com/ssafy/ws/step3/BookTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220721/com/ssafy/ws/step3/mission(배열메뉴).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220722/META-INF/day220722.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220722/com/ssafy/poly/mission3/PersonMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220722/com/ssafy/poly/mission3/PersonMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220722/com/ssafy/poly/mission3/personMenuTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220722/com/ssafy/poly/mission3/personMenuTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220725/com/ssafy/string/StringConvertTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220725/com/ssafy/string/StringTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220725/com/ssafy/string/StringTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220725/com/ssafy/string/StringTest3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220725/com/ssafy/string/StringTest4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220725/com/ssafy/string/StringTokenizerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220727/com/ssafy/lambda/LambdaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220727/com/ssafy/lambda/LambdaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220729/com/ssafy/xml/DomTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220729/com/ssafy/xml/DomTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220729/com/ssafy/xml/book/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220729/com/ssafy/xml/book/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220801/com/ssafy/recursive/FactorialTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220801/com/ssafy/recursive/FactorialTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220803/com/april2nds/swe/SWE_2001.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220803/com/april2nds/swe/SWE_2001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220808/com/ssafy/swe/SWE_9229.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220808/com/ssafy/swe/SWE_9229.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220809/com/ssafy/boj/BOJ_2563.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220809/com/ssafy/boj/BOJ_2563.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220810/com/april2nds/boj/ing/BOJ_16935.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220810/com/april2nds/boj/ing/BOJ_16935.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220811/com/ssafy/boj/BOJ_15686_치킨_배달.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220824/com/april2nd/boj/SWE_3289_서로소집합.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220825/com/april2nd/boj/BOJ_4485_젤다.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220825/com/ssafy/live/DijkstraTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220825/com/ssafy/live/DijkstraTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220825/com/ssafy/live/TopologySortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220825/com/ssafy/live/TopologySortTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220826/com/april2nd/boj/BOJ_17144_미세먼지.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day220826/com/april2nd/boj/BOJ_17144_미세먼지.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +94,7 @@
       <recent name="com.ssafy.json" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JDBCTest">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.65">
     <configuration name="JDBCTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.april2nd.live.JDBCTest" />
       <module name="day220914" />
@@ -232,90 +153,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomcat 9.0.65" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.65" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="UPDATING_POLICY" value="restart-server" />
+    <configuration name="Tomcat 9.0.65" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.65" ALTERNATIVE_JRE_ENABLED="false">
       <deployment>
-        <artifact name="board1_servlet:war exploded">
+        <artifact name="day220915:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/board1_servlet" />
+            <option name="CONTEXT_PATH" value="/day220915_war_exploded" />
           </settings>
         </artifact>
       </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="16a84e3b-02f8-4887-85ed-1682cadd01cb" />
-      </server-settings>
+      <server-settings />
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="56601" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="board1_servlet:war exploded" />
+          <artifact name="day220915:war exploded" />
         </option>
       </method>
     </configuration>
@@ -397,6 +252,11 @@
       <workItem from="1663219603701" duration="105000" />
       <workItem from="1663220554386" duration="191000" />
       <workItem from="1663221081367" duration="626000" />
+      <workItem from="1663247665389" duration="918000" />
+      <workItem from="1663257237372" duration="523000" />
+      <workItem from="1663285976289" duration="74000" />
+      <workItem from="1663286315950" duration="80000" />
+      <workItem from="1663286408282" duration="86000" />
     </task>
     <servers />
   </component>
