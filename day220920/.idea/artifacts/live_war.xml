@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="live:war">
+    <output-path>$PROJECT_DIR$/live/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>live</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="live-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="live:war exploded" />
+    </root>
+  </artifact>
+</component>
