@@ -55,7 +55,7 @@
                   <a
                     href="#"
                     class="article-title link-dark"
-                    data-no="글번호"
+                    data-no="${article.articleNo}"
                     style=""
                   >
                       ${article.subject}

@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="hw_10_2" />
         <module name="live" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="hw_10_2" target="1.8" />
       <module name="live" target="1.8" />
     </bytecodeTargetLevel>
   </component>

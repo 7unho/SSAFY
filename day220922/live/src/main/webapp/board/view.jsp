@@ -68,7 +68,7 @@
     <script>
       document.querySelector("#btn-list").addEventListener("click", function () {
     	  let form = document.querySelector("#form-param");
-    	  
+    	  document.querySelector("#act").value = "list";
     	  form.setAttribute("action", "${root}/board");
           form.submit();
       });

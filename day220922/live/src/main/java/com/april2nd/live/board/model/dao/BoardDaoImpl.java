@@ -124,14 +124,15 @@ public class BoardDaoImpl implements BoardDao {
             sql.append("FROM board \n");
             sql.append("WHERE article_no = ?;");
             pstmt = conn.prepareStatement(sql.toString());
-
             pstmt.setInt(1, articleNo);
+            rs = pstmt.executeQuery();
             if (rs.next()) {
                 boardDto = new BoardDto();
 
                 boardDto.setArticleNo(rs.getInt("article_no"));
                 boardDto.setUserId(rs.getString("user_id"));
                 boardDto.setSubject(rs.getString("subject"));
+                boardDto.setContent(rs.getString("content"));
                 boardDto.setHit(rs.getInt("hit"));
                 boardDto.setRegisterTime(rs.getString("register_time"));
             }
