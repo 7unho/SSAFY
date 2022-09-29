@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="board1_servlet:war exploded" />
+      <artifact name="HappyHouse_3:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,9 +10,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/day220926/day220926.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220926/src/com/april2nd/algorithm/SWE_1952_수영장.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220926/src/com/april2nd/algorithm/SWE_5215_햄버거다이어트.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/HappyHouse_3_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/HappyHouse_3_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_19_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/controller/NoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/dto/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/dto/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/model/dao/NoteDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/model/dao/NoteDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/model/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/model/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/model/service/NoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/model/service/NoteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/model/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/model/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -67,10 +92,15 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/unknownflower/Desktop/workspace/Java&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.1319199&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsDialog.application.dockerConsole&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -79,11 +109,11 @@
       <recent name="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HappyHouse_3/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/HappyHouse_3/src/main/java/com/april2nd/happyhouse_3" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/day220915" />
       <recent name="$PROJECT_DIR$/day220915/src" />
-      <recent name="$PROJECT_DIR$/day220915/board1_servlet/web" />
-      <recent name="$PROJECT_DIR$/day220915/board1_servlet/web/board" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ssafy" />
@@ -152,23 +182,90 @@
       </method>
     </configuration>
     <configuration name="Tomcat 9.0.65" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.65" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
-        <artifact name="day220915:war exploded">
+        <artifact name="HappyHouse_3:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/day220915_war_exploded" />
+            <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
-      <server-settings />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="502c6d6f-48bd-405b-a673-58e82cc9db3f" />
+      </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57519" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="day220915:war exploded" />
+          <artifact name="HappyHouse_3:war exploded" />
         </option>
       </method>
     </configuration>
@@ -266,6 +363,11 @@
       <workItem from="1663856918118" duration="135000" />
       <workItem from="1663861684525" duration="56000" />
       <workItem from="1664186228164" duration="2025000" />
+      <workItem from="1664198337480" duration="150000" />
+      <workItem from="1664198507216" duration="7955000" />
+      <workItem from="1664237041875" duration="418000" />
+      <workItem from="1664291207158" duration="145000" />
+      <workItem from="1664459759815" duration="37000" />
     </task>
     <servers />
   </component>

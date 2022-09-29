@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="131dc54e-82d5-4a8f-a751-bee08b643fc8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/HappyHouse_3_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/HappyHouse_3_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_19_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__mysql_mysql_connector_java_8_0_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/src/main/java/com/april2nd/webtest/controller/NoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/src/main/java/com/april2nd/webtest/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/src/main/java/com/april2nd/webtest/dto/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/src/main/java/com/april2nd/webtest/dto/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/src/main/java/com/april2nd/webtest/model/dao/NoteDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/src/main/java/com/april2nd/webtest/model/dao/NoteDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/src/main/java/com/april2nd/webtest/model/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/src/main/java/com/april2nd/webtest/model/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/src/main/java/com/april2nd/webtest/model/service/NoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/src/main/java/com/april2nd/webtest/model/service/NoteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/src/main/java/com/april2nd/webtest/model/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/src/main/java/com/april2nd/webtest/model/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day220927/WebTest/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220722.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2FMBIF8NLJTr2Y8U0hdOmZZ3oj4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="131dc54e-82d5-4a8f-a751-bee08b643fc8" name="Changes" comment="" />
+      <created>1664291990988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664291990988</updated>
+      <workItem from="1664291992083" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

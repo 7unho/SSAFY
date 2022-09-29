@@ -12,6 +12,7 @@
       <module name="day220906" target="1.8" />
       <module name="day220916" target="1.8" />
       <module name="day220919" target="1.8" />
+      <module name="HappyHouse_3" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
