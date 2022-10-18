@@ -3,12 +3,12 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns:context="http://www.springframework.org/schema/context"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
-    <bean class="com.april2nd.A" id="a"></bean>
+    <bean class="com.april2nd.live1.A" id="a"></bean>
 
     <!--
         빈 컨테이너에서 com.ssafy 패키지에 관심이 있어!!
         ==> 해당 패키지에서 만약 annotation @Component가 정의된 클래스가 있다면, <bean class="패키지명.클래스명"></bean>으로 관리하겠다는 의미!!
     -->
-    <context:component-scan base-package="com.april2nd"></context:component-scan>
-
+    <context:component-scan base-package="com.april2nd.live1"></context:component-scan>
+    <context:component-scan base-package="com.april2nd.hw"></context:component-scan>
 </beans>

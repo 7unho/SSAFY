@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="HappyHouse_3:war exploded" />
+      <artifact name="day221018_2:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,83 +10,106 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day221017_spring_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day221017_spring_war_exploded2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day221017_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_18_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_18_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_18_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_18_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_18_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_18_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_18_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_MVC_5_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/day221017.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di1/HelloMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di1/HelloMessageEng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di1/HelloMessageKor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di2/HelloMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di2/HelloMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di2/HelloMessageEng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di2/HelloMessageKor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di3/HelloMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di3/HelloMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di3/HelloMessageEng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di3/HelloMessageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di3/HelloMessageKor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di4/HelloMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di4/HelloMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di4/HelloMessageEng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di4/HelloMessageKor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/day221017_spring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di1/HelloMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di1/HelloMessageEng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di1/HelloMessageKor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di2/HelloMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di2/HelloMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di2/HelloMessageEng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di2/HelloMessageKor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di3/HelloMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di3/HelloMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di3/HelloMessageEng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di3/HelloMessageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di3/HelloMessageKor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di4/HelloMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di4/HelloMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di4/HelloMessageEng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di4/HelloMessageKor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018/day221018.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day221018_2_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day221018_2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_MVC_5_2_3_RELEASE__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/hw/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/hw/UserPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/hw/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/hw/VipUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/live1/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/live1/My.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/live1/MyImpl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/live1/MyImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/java/com/april2nd/day221018_2/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/java/com/april2nd/day221018_2/dto/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/java/com/april2nd/day221018_2/dto/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/views/calculator/calForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/views/calculator/calResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/views/form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/views/result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_19_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_30.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220902/src/com/april2nd/live/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220902/src/com/april2nd/live1/ChatClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220902/src/com/april2nd/live/EchoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220902/src/com/april2nd/live1/EchoClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220902/src/com/april2nd/live/EchoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220902/src/com/april2nd/live1/EchoServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220902/src/com/april2nd/live/SEOUL13_KIMJUNHO.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220902/src/com/april2nd/live1/SEOUL13_KIMJUNHO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220902/src/com/april2nd/live/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220902/src/com/april2nd/live1/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220902/src/com/april2nd/live/미션.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day220902/src/com/april2nd/live1/미션.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220914/day220914.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day220914/day220914.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220914/src/com.april2nd.live/JDBCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220914/src/com.april2nd.live/JDBCTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220920/live/src/main/java/com/april2nd/live/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220920/live/src/main/java/com/april2nd/live/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/controller/BoardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/controller/BoardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/BoardDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/BoardDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/dao/BoardDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/dao/BoardDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/dao/BoardDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/dao/BoardDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/service/BoardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/service/BoardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/service/BoardServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/service/BoardServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/controller/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/MemberDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/MemberDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/dao/MemberDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/dao/MemberDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/dao/MemberDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/dao/MemberDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/service/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/service/MemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/service/MemberServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/util/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/util/DBUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/util/ParameterCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/util/ParameterCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/util/SizeConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/util/SizeConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/live1/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/live1/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/live1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day221018/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day221018/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day221018/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day221018/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day221018/target/classes/com/april2nd/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day221018/target/classes/com/april2nd/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day221018/target/classes/com/april2nd/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day221018/target/classes/com/april2nd/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/board1_servlet/com/april2nd/board/BoardWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/board1_servlet/com/april2nd/board/BoardWrite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220902/com/april2nd/live/ChatClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220902/com/april2nd/live/EchoClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220902/com/april2nd/live/EchoServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220902/com/april2nd/live/SEOUL13_KIMJUNHO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220902/com/april2nd/live/Server$Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220902/com/april2nd/live/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220902/com/april2nd/live/미션.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220906/com/april2nd/live/AjaxTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220914/com/april2nd/live/JDBCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220915/com/april2nd/live/hello/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day220915/com/april2nd/live/hello/LifeCycleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di1/HelloMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di1/HelloMessageEng.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di1/HelloMessageKor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di2/HelloMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di2/HelloMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di2/HelloMessageEng.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di2/HelloMessageKor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di3/HelloMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di3/HelloMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di3/HelloMessageEng.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di3/HelloMessageFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di3/HelloMessageKor.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,8 +124,9 @@
         <option value="package-info" />
         <option value="HTML File" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -161,26 +185,27 @@
       <recent name="$PROJECT_DIR$/day221017/src/com/april2nd/hello/di2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/views" />
+      <recent name="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/day221018_2/src/main/webapp/views" />
       <recent name="$PROJECT_DIR$/day221017_spring/src/main/resources" />
       <recent name="$PROJECT_DIR$/day221018/src/main/resources" />
-      <recent name="$PROJECT_DIR$/HappyHouse_3/src/main/webapp" />
-      <recent name="$PROJECT_DIR$/HappyHouse_3/src/main/java/com/april2nd/happyhouse_3" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.april2nd" />
       <recent name="com.ssafy" />
       <recent name="com.ssafy.live" />
       <recent name="com.ssafy.gui" />
       <recent name="com.ssafy.json" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nd.Test" />
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.65">
+    <configuration name="UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw.UserTest" />
       <module name="day221018" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.april2nd.*" />
+          <option name="PATTERN" value="hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,15 +213,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.april2nd.hello.di4.HelloMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nd.hello.di4.HelloMain" />
-      <module name="day221017_spring" />
+    <configuration name="com.april2nd.hw.UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nd.hw.UserTest" />
+      <module name="day221018" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.april2nd.hello.di4.*" />
+          <option name="PATTERN" value="com.april2nd.hw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.april2nd.live1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nd.live1.Test" />
+      <module name="day221018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.april2nd.live1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in day221018_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day221018_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -214,10 +260,115 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day2210182Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="day221018_2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.april2nd.day221018_2.Day2210182Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.65" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.65" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="day221018_2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="cb5cbecc-f89a-4716-911b-2df9ed26075d" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60259" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="day221018_2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.com.april2nd.hw.UserTest" />
+      <item itemvalue="Application.com.april2nd.live1.Test" />
+      <item itemvalue="Application.UserTest" />
+      <item itemvalue="JUnit.All in day221018_2" />
+      <item itemvalue="Spring Boot.Day2210182Application" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.65" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.com.april2nd.hello.di4.HelloMain" />
+        <item itemvalue="JUnit.All in day221018_2" />
+        <item itemvalue="Application.com.april2nd.hw.UserTest" />
+        <item itemvalue="Application.UserTest" />
+        <item itemvalue="Application.com.april2nd.live1.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +456,7 @@
       <workItem from="1664461322700" duration="740000" />
       <workItem from="1665984124330" duration="3287000" />
       <workItem from="1666014475388" duration="5846000" />
-      <workItem from="1666064225202" duration="1168000" />
+      <workItem from="1666064225202" duration="11526000" />
     </task>
     <servers />
   </component>

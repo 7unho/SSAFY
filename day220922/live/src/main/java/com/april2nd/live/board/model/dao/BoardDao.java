@@ -1,6 +1,6 @@
-package com.april2nd.live.board.model.dao;
+package com.april2nd.live1.board.model.dao;
 
-import com.april2nd.live.board.model.BoardDto;
+import com.april2nd.live1.board.model.BoardDto;
 
 import java.sql.SQLException;
 import java.util.List;

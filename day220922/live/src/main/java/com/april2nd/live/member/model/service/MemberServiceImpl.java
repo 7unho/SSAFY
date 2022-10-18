@@ -1,8 +1,8 @@
-package com.april2nd.live.member.model.service;
+package com.april2nd.live1.member.model.service;
 
-import com.april2nd.live.member.model.MemberDto;
-import com.april2nd.live.member.model.dao.MemberDao;
-import com.april2nd.live.member.model.dao.MemberDaoImpl;
+import com.april2nd.live1.member.model.MemberDto;
+import com.april2nd.live1.member.model.dao.MemberDao;
+import com.april2nd.live1.member.model.dao.MemberDaoImpl;
 
 public class MemberServiceImpl implements MemberService{
     private static MemberService memberService = new MemberServiceImpl();

@@ -1,8 +1,8 @@
-package com.april2nd.live.member.controller;
+package com.april2nd.live1.member.controller;
 
-import com.april2nd.live.member.model.MemberDto;
-import com.april2nd.live.member.model.service.MemberService;
-import com.april2nd.live.member.model.service.MemberServiceImpl;
+import com.april2nd.live1.member.model.MemberDto;
+import com.april2nd.live1.member.model.service.MemberService;
+import com.april2nd.live1.member.model.service.MemberServiceImpl;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

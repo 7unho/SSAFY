@@ -1,6 +1,6 @@
-package com.april2nd.live.member.model.service;
+package com.april2nd.live1.member.model.service;
 
-import com.april2nd.live.member.model.MemberDto;
+import com.april2nd.live1.member.model.MemberDto;
 
 public interface MemberService {
 

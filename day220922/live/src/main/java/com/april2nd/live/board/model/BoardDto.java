@@ -1,4 +1,4 @@
-package com.april2nd.live.board.model;
+package com.april2nd.live1.board.model;
 
 public class BoardDto {
 

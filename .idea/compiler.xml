@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="day221018_2" />
         <module name="day221017_spring" />
         <module name="day221018" />
       </profile>
@@ -17,6 +18,7 @@
       <module name="day221017" target="1.8" />
       <module name="day221017_spring" target="1.8" />
       <module name="day221018" target="1.8" />
+      <module name="day221018_2" target="1.8" />
       <module name="HappyHouse_3" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -24,6 +26,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="day221017" options="" />
       <module name="day221017_spring" options="" />
+      <module name="day221018_2" options="" />
     </option>
   </component>
 </project>

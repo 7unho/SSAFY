@@ -1,9 +1,9 @@
-package com.april2nd.live.board.model.service;
+package com.april2nd.live1.board.model.service;
 
-import com.april2nd.live.board.model.BoardDto;
-import com.april2nd.live.board.model.dao.BoardDao;
-import com.april2nd.live.board.model.dao.BoardDaoImpl;
-import com.april2nd.live.util.SizeConstant;
+import com.april2nd.live1.board.model.BoardDto;
+import com.april2nd.live1.board.model.dao.BoardDao;
+import com.april2nd.live1.board.model.dao.BoardDaoImpl;
+import com.april2nd.live1.util.SizeConstant;
 
 import java.util.List;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.april2nd.live.member.model;
+package com.april2nd.live1.member.model;
 
 public class MemberDto {
 

@@ -1,4 +1,4 @@
-package com.april2nd.live.util;
+package com.april2nd.live1.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

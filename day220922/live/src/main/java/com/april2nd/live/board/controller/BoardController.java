@@ -1,10 +1,10 @@
-package com.april2nd.live.board.controller;
+package com.april2nd.live1.board.controller;
 
-import com.april2nd.live.board.model.BoardDto;
-import com.april2nd.live.board.model.service.BoardService;
-import com.april2nd.live.board.model.service.BoardServiceImpl;
-import com.april2nd.live.member.model.MemberDto;
-import com.april2nd.live.util.ParameterCheck;
+import com.april2nd.live1.board.model.BoardDto;
+import com.april2nd.live1.board.model.service.BoardService;
+import com.april2nd.live1.board.model.service.BoardServiceImpl;
+import com.april2nd.live1.member.model.MemberDto;
+import com.april2nd.live1.util.ParameterCheck;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
