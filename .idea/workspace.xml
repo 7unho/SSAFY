@@ -10,33 +10,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/HappyHouse_3_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/HappyHouse_3_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_19_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/controller/NoteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/dto/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/dto/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/model/dao/NoteDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/model/dao/NoteDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/model/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/model/dao/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/model/service/NoteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/model/service/NoteServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/model/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/java/com/april2nd/webtest/model/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day220927/WebTest/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day221017_spring_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day221017_spring_war_exploded2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day221017_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_MVC_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/day221017.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di1/HelloMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di1/HelloMessageEng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di1/HelloMessageKor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di2/HelloMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di2/HelloMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di2/HelloMessageEng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di2/HelloMessageKor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di3/HelloMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di3/HelloMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di3/HelloMessageEng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di3/HelloMessageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di3/HelloMessageKor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di4/HelloMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di4/HelloMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di4/HelloMessageEng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/src/main/java/com/april2nd/hello/di4/HelloMessageKor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/day221017_spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di1/HelloMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di1/HelloMessageEng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di1/HelloMessageKor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di2/HelloMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di2/HelloMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di2/HelloMessageEng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di2/HelloMessageKor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di3/HelloMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di3/HelloMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di3/HelloMessageEng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di3/HelloMessageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di3/HelloMessageKor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di4/HelloMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di4/HelloMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di4/HelloMessageEng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/hello/di4/HelloMessageKor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221017_spring/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018/day221018.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221018/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_19_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -52,9 +99,10 @@
         <option value="Kotlin Class" />
         <option value="Tag Library Descriptor" />
         <option value="package-info" />
-        <option value="Interface" />
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -77,43 +125,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;ALL&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/unknownflower/Desktop/workspace/Java&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.1319199&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsDialog.application.dockerConsole&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/unknownflower/Desktop/workspace/Java/day221017_spring/src",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.4610849",
+    "settings.editor.selected.configurable": "spring",
+    "spring.configuration.checksum": "1db8fe08c5e1742296aa97d66a9d6b04"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day220906/src" />
-      <recent name="$PROJECT_DIR$/day220721/src/com/ssafy/ws/step3" />
+      <recent name="$PROJECT_DIR$/day221017_spring/src" />
+      <recent name="$PROJECT_DIR$/day221017_spring/src/main/java/com/april2nd/day221017_spring" />
+      <recent name="$PROJECT_DIR$/day221017/src/com/april2nd/hello/di4" />
+      <recent name="$PROJECT_DIR$/day221017/src/com/april2nd/hello/di3" />
+      <recent name="$PROJECT_DIR$/day221017/src/com/april2nd/hello/di2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day221017_spring/src/main/resources" />
+      <recent name="$PROJECT_DIR$/day221018/src/main/resources" />
       <recent name="$PROJECT_DIR$/HappyHouse_3/src/main/webapp" />
       <recent name="$PROJECT_DIR$/HappyHouse_3/src/main/java/com/april2nd/happyhouse_3" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/day220915" />
-      <recent name="$PROJECT_DIR$/day220915/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ssafy" />
@@ -122,13 +174,13 @@
       <recent name="com.ssafy.json" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.65">
-    <configuration name="JDBCTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nd.live.JDBCTest" />
-      <module name="day220914" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nd.Test" />
+      <module name="day221018" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.april2nd.live.*" />
+          <option name="PATTERN" value="com.april2nd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,37 +188,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.april2nd.live.ChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nd.live.ChatClient" />
-      <module name="day220902" />
+    <configuration name="com.april2nd.hello.di4.HelloMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.april2nd.hello.di4.HelloMain" />
+      <module name="day221017_spring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.april2nd.live.*" />
+          <option name="PATTERN" value="com.april2nd.hello.di4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="com.april2nd.live.Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.april2nd.live.Server" />
-      <module name="day220902" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.april2nd.live.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="2-02.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java/day220906/chap2/2-02.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="write.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java/board1_servlet/web/board/write.html" useBuiltInWebServerPort="true">
-      <method v="2" />
     </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="JAVA" />
@@ -181,109 +214,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomcat 9.0.65" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.65" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
-      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
-      <deployment>
-        <artifact name="HappyHouse_3:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="502c6d6f-48bd-405b-a673-58e82cc9db3f" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="57519" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="HappyHouse_3:war exploded" />
-        </option>
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.com.april2nd.live.ChatClient" />
-      <item itemvalue="Application.com.april2nd.live.Server" />
-      <item itemvalue="Application.JDBCTest" />
-      <item itemvalue="JavaScript Debug.write.html" />
-      <item itemvalue="JavaScript Debug.2-02.html" />
-      <item itemvalue="Tomcat Server.Tomcat 9.0.65" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JDBCTest" />
-        <item itemvalue="JavaScript Debug.write.html" />
-        <item itemvalue="JavaScript Debug.2-02.html" />
-        <item itemvalue="Application.com.april2nd.live.ChatClient" />
-        <item itemvalue="Application.com.april2nd.live.Server" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.com.april2nd.hello.di4.HelloMain" />
       </list>
     </recent_temporary>
   </component>
@@ -368,6 +302,10 @@
       <workItem from="1664237041875" duration="418000" />
       <workItem from="1664291207158" duration="145000" />
       <workItem from="1664459759815" duration="37000" />
+      <workItem from="1664461322700" duration="740000" />
+      <workItem from="1665984124330" duration="3287000" />
+      <workItem from="1666014475388" duration="5846000" />
+      <workItem from="1666064225202" duration="1168000" />
     </task>
     <servers />
   </component>
