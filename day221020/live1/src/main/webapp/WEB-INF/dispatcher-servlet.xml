@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<beans xmlns="http://www.springframework.org/schema/beans"
-       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<beans:beans xmlns="http://www.springframework.org/schema/mvc"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:beans="http://www.springframework.org/schema/beans"
+             xmlns:context="http://www.springframework.org/schema/context"
+             xsi:schemaLocation="http://www.springframework.org/schema/mvc https://www.springframework.org/schema/mvc/spring-mvc.xsd
+		http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
 
-</beans>
+    <annotation-driven />
+
+<!--    <resources mapping="/css/**" location="/resources/" />-->
+<!--    <resources mapping="/js/**" location="/resources/js/" /> &ndash;&gt;-->
+    <resources mapping="/assets/**" location="/resources/assets/" />
+
+    <beans:bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <beans:property name="prefix" value="/WEB-INF/views/" />
+        <beans:property name="suffix" value=".jsp" />
+    </beans:bean>
+
+    <context:component-scan base-package="com.april2nd.live1.*.controller" />
+
+    <beans:bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        <beans:property name="defaultEncoding" value="UTF-8"/>
+        <beans:property name="maxUploadSize" value="52428800"/>
+        <beans:property name="maxInMemorySize" value="1048576"/>
+    </beans:bean>
+
+    <!-- fileDownload -->
+    <beans:bean id="fileDownLoadView" class="com.april2nd.live1.board.view.FileDownLoadView"/>
+    <beans:bean id="fileViewResolver" class="org.springframework.web.servlet.view.BeanNameViewResolver">
+        <beans:property name="order" value="0" />
+    </beans:bean>
+
+</beans:beans>
