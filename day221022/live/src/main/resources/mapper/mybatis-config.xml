@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+
+	<properties resource="mapper/dbinfo.properties"/>
+
+	<typeAliases>
+		<typeAlias type="com.april2nd.live.board.model.BoardDto" alias="boardDto" />
+		<typeAlias type="com.april2nd.live.board.model.FileInfoDto" alias="fileInfoDto" />
+		<typeAlias type="com.april2nd.live.member.model.MemberDto" alias="memberDto" />
+	</typeAliases>
+	
+	<environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="${driver}"/>
+                <property name="url" value="${url}"/>
+                <property name="username" value="${dbid}"/>
+                <property name="password" value="${dbpwd}"/>
+            </dataSource>
+        </environment>
+    </environments>
+    
+    <!--<environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC" />
+            <dataSource type="JNDI">
+                <property value="java:comp/env/jdbc/ssafy" name="data_source"/>
+            </dataSource>
+        </environment>
+    </environments>-->
+
+
+    <!-- SqlMapConfig를 처음에 로드할 때, static 블록에 xml 읽는 코드가 있어서 그 때, 읽어온다.-->
+    <!-- ORM, MyBatis, JPA-->
+    <!-- mappers안의 파일 중 하나라도 에러가 날 경우, 정상적인 파일도 읽어오지 못한다. !!!!-->
+    <mappers>
+		<mapper resource="mapper/member.xml" />
+<!--		<mapper resource="mapper/board.xml" />-->
+	</mappers>
+	
+</configuration>
