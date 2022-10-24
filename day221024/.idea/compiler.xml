@@ -8,9 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="live2" />
         <module name="live" />
+        <module name="hw" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="hw" target="1.8" />
       <module name="live" target="1.8" />
       <module name="live2" target="1.8" />
     </bytecodeTargetLevel>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/hw" />
     <file type="web" url="file://$PROJECT_DIR$/live" />
     <file type="web" url="file://$PROJECT_DIR$/live2" />
   </component>
@@ -9,6 +10,7 @@
       <list>
         <option value="$PROJECT_DIR$/live/pom.xml" />
         <option value="$PROJECT_DIR$/live2/pom.xml" />
+        <option value="$PROJECT_DIR$/hw/pom.xml" />
       </list>
     </option>
   </component>
