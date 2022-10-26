@@ -1,9 +1,7 @@
 package com.live1.model.service;
 
 import com.live1.dto.Book;
-import com.live1.dto.User;
 import com.live1.model.repo.BookRepo;
-import com.live1.model.repo.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

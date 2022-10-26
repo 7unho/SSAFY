@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.april2nd.repo.PersonDao">
+
+	<resultMap type="personDto" id="person">
+		<result column="id" property="id"/>
+		<result column="name" property="name"/>
+		<result column="age" property="age"/>
+		<result column="job" property="job"/>
+	</resultMap>
+	
+	<select id="idCheck" parameterType="string" resultType="int">
+		select count(id)
+		from person
+		where id = #{id}
+	</select>
+	
+	<insert id="joinMember" parameterType="personDto">
+		insert into person (name, age, job)
+		values (#{name}, #{age}, #{job})
+	</insert>
+	
+	<select id="loginMember" parameterType="map" resultMap="person">
+		select id
+		from person
+		where id = #{id}
+	</select>
+
+	
+</mapper>

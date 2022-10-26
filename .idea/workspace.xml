@@ -10,106 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day221018_2_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day221018_2_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_MVC_5_2_3_RELEASE__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/hw/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/hw/UserPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/hw/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/hw/VipUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/live1/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/live1/My.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/live1/MyImpl1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/live1/MyImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/java/com/april2nd/day221018_2/controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/java/com/april2nd/day221018_2/dto/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/java/com/april2nd/day221018_2/dto/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/views/calculator/calForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/views/calculator/calResult.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/views/form.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/views/result.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day221018_2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1e6c3458-137d-447d-bdb4-914a9cb5fab4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1e6c3458-137d-447d-bdb4-914a9cb5fab4.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220902/src/com/april2nd/live/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220902/src/com/april2nd/live1/ChatClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220902/src/com/april2nd/live/EchoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220902/src/com/april2nd/live1/EchoClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220902/src/com/april2nd/live/EchoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220902/src/com/april2nd/live1/EchoServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220902/src/com/april2nd/live/SEOUL13_KIMJUNHO.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220902/src/com/april2nd/live1/SEOUL13_KIMJUNHO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220902/src/com/april2nd/live/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220902/src/com/april2nd/live1/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220902/src/com/april2nd/live/미션.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day220902/src/com/april2nd/live1/미션.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220914/day220914.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day220914/day220914.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220914/src/com.april2nd.live/JDBCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220914/src/com.april2nd.live/JDBCTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220920/live/src/main/java/com/april2nd/live/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220920/live/src/main/java/com/april2nd/live/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/controller/BoardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/controller/BoardController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/BoardDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/BoardDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/dao/BoardDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/dao/BoardDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/dao/BoardDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/dao/BoardDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/service/BoardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/service/BoardService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/service/BoardServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/board/model/service/BoardServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/controller/MemberController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/MemberDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/MemberDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/dao/MemberDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/dao/MemberDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/dao/MemberDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/dao/MemberDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/service/MemberService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/service/MemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/member/model/service/MemberServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/util/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/util/DBUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/util/ParameterCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/util/ParameterCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/util/SizeConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/day220922/live/src/main/java/com/april2nd/live/util/SizeConstant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/live1/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/live1/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/Food.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day221018/src/main/java/com/april2nd/live1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day221018/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day221018/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day221018/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day221018/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day221018/target/classes/com/april2nd/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day221018/target/classes/com/april2nd/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day221018/target/classes/com/april2nd/Food.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day221018/target/classes/com/april2nd/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/board1_servlet/com/april2nd/board/BoardWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/board1_servlet/com/april2nd/board/BoardWrite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220902/com/april2nd/live/ChatClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220902/com/april2nd/live/EchoClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220902/com/april2nd/live/EchoServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220902/com/april2nd/live/SEOUL13_KIMJUNHO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220902/com/april2nd/live/Server$Service.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220902/com/april2nd/live/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220902/com/april2nd/live/미션.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220906/com/april2nd/live/AjaxTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220914/com/april2nd/live/JDBCTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220915/com/april2nd/live/hello/HelloServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day220915/com/april2nd/live/hello/LifeCycleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di1/HelloMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di1/HelloMessageEng.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di1/HelloMessageKor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di2/HelloMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di2/HelloMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di2/HelloMessageEng.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di2/HelloMessageKor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di3/HelloMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di3/HelloMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di3/HelloMessageEng.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di3/HelloMessageFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day221017/com/april2nd/hello/di3/HelloMessageKor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day221025/live1/src/main/java/com/live1/model/service/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day221025/live1/src/main/java/com/live1/model/service/BookServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,33 +52,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "/Users/unknownflower/Desktop/workspace/Java/day221017_spring/src",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.4610849",
-    "settings.editor.selected.configurable": "spring",
-    "spring.configuration.checksum": "1db8fe08c5e1742296aa97d66a9d6b04"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;ALL&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/unknownflower/Desktop/workspace/Java/day221017_spring/src&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.4610849&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;spring&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;053b794301fa9aa5251a323ec73a956a&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/day221017_spring/src" />
@@ -457,6 +360,8 @@
       <workItem from="1665984124330" duration="3287000" />
       <workItem from="1666014475388" duration="5846000" />
       <workItem from="1666064225202" duration="11526000" />
+      <workItem from="1666743929428" duration="43000" />
+      <workItem from="1666746949679" duration="1294000" />
     </task>
     <servers />
   </component>

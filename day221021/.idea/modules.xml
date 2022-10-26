@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringPersonMVC/SpringPersonMVC.iml" filepath="$PROJECT_DIR$/SpringPersonMVC/SpringPersonMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/day221021.iml" filepath="$PROJECT_DIR$/.idea/day221021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/live1/live1.iml" filepath="$PROJECT_DIR$/live1/live1.iml" />
+    </modules>
+  </component>
+</project>

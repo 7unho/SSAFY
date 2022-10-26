@@ -1023,223 +1023,226 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
     <schema id="297" parent="1" name="world">
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
-    <user id="298" parent="1" name="mysql.infoschema">
+    <schema id="298" parent="1" name="ssafytest">
+      <CollationName>utf8mb4_0900_ai_ci</CollationName>
+    </schema>
+    <user id="299" parent="1" name="mysql.infoschema">
       <CanLogin>0</CanLogin>
       <Host>localhost</Host>
       <Plugin>caching_sha2_password</Plugin>
     </user>
-    <user id="299" parent="1" name="mysql.session">
+    <user id="300" parent="1" name="mysql.session">
       <CanLogin>0</CanLogin>
       <Host>localhost</Host>
       <Plugin>caching_sha2_password</Plugin>
     </user>
-    <user id="300" parent="1" name="mysql.sys">
+    <user id="301" parent="1" name="mysql.sys">
       <CanLogin>0</CanLogin>
       <Host>localhost</Host>
       <Plugin>caching_sha2_password</Plugin>
     </user>
-    <user id="301" parent="1" name="root">
+    <user id="302" parent="1" name="root">
       <Host>localhost</Host>
     </user>
-    <table id="302" parent="288" name="dongcode">
+    <table id="303" parent="288" name="dongcode">
       <Engine>InnoDB</Engine>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </table>
-    <table id="303" parent="288" name="housedeal">
+    <table id="304" parent="288" name="housedeal">
       <Engine>InnoDB</Engine>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </table>
-    <table id="304" parent="288" name="houseinfo">
+    <table id="305" parent="288" name="houseinfo">
       <Engine>InnoDB</Engine>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </table>
-    <table id="305" parent="288" name="member">
+    <table id="306" parent="288" name="member">
       <Engine>InnoDB</Engine>
       <CollationName>utf8mb3_general_ci</CollationName>
     </table>
-    <table id="306" parent="288" name="orderdetail">
+    <table id="307" parent="288" name="orderdetail">
       <Engine>InnoDB</Engine>
       <CollationName>utf8mb3_general_ci</CollationName>
     </table>
-    <table id="307" parent="288" name="orders">
+    <table id="308" parent="288" name="orders">
       <Engine>InnoDB</Engine>
       <CollationName>utf8mb3_general_ci</CollationName>
     </table>
-    <table id="308" parent="288" name="product">
+    <table id="309" parent="288" name="product">
       <Engine>InnoDB</Engine>
       <CollationName>utf8mb3_general_ci</CollationName>
     </table>
-    <column id="309" parent="302" name="dongCode">
+    <column id="310" parent="303" name="dongCode">
       <DataType>varchar(10)|0s</DataType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="310" parent="302" name="sidoName">
+    <column id="311" parent="303" name="sidoName">
       <DataType>varchar(30)|0s</DataType>
       <Position>2</Position>
     </column>
-    <column id="311" parent="302" name="gugunName">
+    <column id="312" parent="303" name="gugunName">
       <DataType>varchar(30)|0s</DataType>
       <Position>3</Position>
     </column>
-    <column id="312" parent="302" name="dongName">
+    <column id="313" parent="303" name="dongName">
       <DataType>varchar(30)|0s</DataType>
       <Position>4</Position>
     </column>
-    <index id="313" parent="302" name="PRIMARY">
+    <index id="314" parent="303" name="PRIMARY">
       <ColNames>dongCode</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <key id="314" parent="302" name="PRIMARY">
+    <key id="315" parent="303" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="315" parent="303" name="no">
+    <column id="316" parent="304" name="no">
       <DataType>bigint|0s</DataType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="316" parent="303" name="dealAmount">
+    <column id="317" parent="304" name="dealAmount">
       <DataType>varchar(20)|0s</DataType>
       <Position>2</Position>
     </column>
-    <column id="317" parent="303" name="dealYear">
+    <column id="318" parent="304" name="dealYear">
       <DataType>int|0s</DataType>
       <Position>3</Position>
     </column>
-    <column id="318" parent="303" name="dealMonth">
+    <column id="319" parent="304" name="dealMonth">
       <DataType>int|0s</DataType>
       <Position>4</Position>
     </column>
-    <column id="319" parent="303" name="dealDay">
+    <column id="320" parent="304" name="dealDay">
       <DataType>int|0s</DataType>
       <Position>5</Position>
     </column>
-    <column id="320" parent="303" name="area">
+    <column id="321" parent="304" name="area">
       <DataType>varchar(20)|0s</DataType>
       <Position>6</Position>
     </column>
-    <column id="321" parent="303" name="floor">
+    <column id="322" parent="304" name="floor">
       <DataType>varchar(4)|0s</DataType>
       <Position>7</Position>
     </column>
-    <column id="322" parent="303" name="cancelDealType">
+    <column id="323" parent="304" name="cancelDealType">
       <DataType>varchar(1)|0s</DataType>
       <Position>8</Position>
     </column>
-    <column id="323" parent="303" name="aptCode">
+    <column id="324" parent="304" name="aptCode">
       <DataType>bigint|0s</DataType>
       <Position>9</Position>
     </column>
-    <foreign-key id="324" parent="303" name="housedeal_aptCode_houseinfo_aptCode_fk">
+    <foreign-key id="325" parent="304" name="housedeal_aptCode_houseinfo_aptCode_fk">
       <ColNames>aptCode</ColNames>
       <RefColNames>aptCode</RefColNames>
       <RefTableName>houseinfo</RefTableName>
     </foreign-key>
-    <index id="325" parent="303" name="PRIMARY">
+    <index id="326" parent="304" name="PRIMARY">
       <ColNames>no</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <index id="326" parent="303" name="housedeal_aptCode_houseinfo_aptCode_fk_idx">
+    <index id="327" parent="304" name="housedeal_aptCode_houseinfo_aptCode_fk_idx">
       <ColNames>aptCode</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="327" parent="303" name="PRIMARY">
+    <key id="328" parent="304" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="328" parent="304" name="aptCode">
+    <column id="329" parent="305" name="aptCode">
       <DataType>bigint|0s</DataType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="329" parent="304" name="buildYear">
+    <column id="330" parent="305" name="buildYear">
       <DataType>int|0s</DataType>
       <Position>2</Position>
     </column>
-    <column id="330" parent="304" name="roadName">
+    <column id="331" parent="305" name="roadName">
       <DataType>varchar(40)|0s</DataType>
       <Position>3</Position>
     </column>
-    <column id="331" parent="304" name="roadNameBonbun">
+    <column id="332" parent="305" name="roadNameBonbun">
       <DataType>varchar(5)|0s</DataType>
       <Position>4</Position>
     </column>
-    <column id="332" parent="304" name="roadNameBubun">
+    <column id="333" parent="305" name="roadNameBubun">
       <DataType>varchar(5)|0s</DataType>
       <Position>5</Position>
     </column>
-    <column id="333" parent="304" name="roadNameSeq">
+    <column id="334" parent="305" name="roadNameSeq">
       <DataType>varchar(2)|0s</DataType>
       <Position>6</Position>
     </column>
-    <column id="334" parent="304" name="roadNameBasementCode">
+    <column id="335" parent="305" name="roadNameBasementCode">
       <DataType>varchar(1)|0s</DataType>
       <Position>7</Position>
     </column>
-    <column id="335" parent="304" name="roadNameCode">
+    <column id="336" parent="305" name="roadNameCode">
       <DataType>varchar(7)|0s</DataType>
       <Position>8</Position>
     </column>
-    <column id="336" parent="304" name="dong">
+    <column id="337" parent="305" name="dong">
       <DataType>varchar(40)|0s</DataType>
       <Position>9</Position>
     </column>
-    <column id="337" parent="304" name="bonbun">
+    <column id="338" parent="305" name="bonbun">
       <DataType>varchar(4)|0s</DataType>
       <Position>10</Position>
     </column>
-    <column id="338" parent="304" name="bubun">
+    <column id="339" parent="305" name="bubun">
       <DataType>varchar(4)|0s</DataType>
       <Position>11</Position>
     </column>
-    <column id="339" parent="304" name="sigunguCode">
+    <column id="340" parent="305" name="sigunguCode">
       <DataType>varchar(5)|0s</DataType>
       <Position>12</Position>
     </column>
-    <column id="340" parent="304" name="eubmyundongCode">
+    <column id="341" parent="305" name="eubmyundongCode">
       <DataType>varchar(5)|0s</DataType>
       <Position>13</Position>
     </column>
-    <column id="341" parent="304" name="dongCode">
+    <column id="342" parent="305" name="dongCode">
       <DataType>varchar(10)|0s</DataType>
       <Position>14</Position>
     </column>
-    <column id="342" parent="304" name="landCode">
+    <column id="343" parent="305" name="landCode">
       <DataType>varchar(1)|0s</DataType>
       <Position>15</Position>
     </column>
-    <column id="343" parent="304" name="apartmentName">
+    <column id="344" parent="305" name="apartmentName">
       <DataType>varchar(40)|0s</DataType>
       <Position>16</Position>
     </column>
-    <column id="344" parent="304" name="jibun">
+    <column id="345" parent="305" name="jibun">
       <DataType>varchar(10)|0s</DataType>
       <Position>17</Position>
     </column>
-    <column id="345" parent="304" name="lng">
+    <column id="346" parent="305" name="lng">
       <DataType>varchar(30)|0s</DataType>
       <Position>18</Position>
     </column>
-    <column id="346" parent="304" name="lat">
+    <column id="347" parent="305" name="lat">
       <DataType>varchar(30)|0s</DataType>
       <Position>19</Position>
     </column>
-    <foreign-key id="347" parent="304" name="houseinfo_dongCode_dongcode_dongCode_fk">
+    <foreign-key id="348" parent="305" name="houseinfo_dongCode_dongcode_dongCode_fk">
       <ColNames>dongCode</ColNames>
       <RefColNames>dongCode</RefColNames>
       <RefTableName>dongcode</RefTableName>
     </foreign-key>
-    <index id="348" parent="304" name="PRIMARY">
+    <index id="349" parent="305" name="PRIMARY">
       <ColNames>aptCode</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <index id="349" parent="304" name="UNIQUE">
+    <index id="350" parent="305" name="UNIQUE">
       <ColNames>buildYear
 apartmentName
 jibun
@@ -1248,135 +1251,135 @@ eubmyundongCode</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <index id="350" parent="304" name="houseinfo_dongCode_dongcode_dongCode_fk_idx">
+    <index id="351" parent="305" name="houseinfo_dongCode_dongcode_dongCode_fk_idx">
       <ColNames>dongCode</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="351" parent="304" name="PRIMARY">
+    <key id="352" parent="305" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <key id="352" parent="304" name="UNIQUE">
+    <key id="353" parent="305" name="UNIQUE">
       <UnderlyingIndexName>UNIQUE</UnderlyingIndexName>
     </key>
-    <column id="353" parent="305" name="userid">
+    <column id="354" parent="306" name="userid">
       <DataType>varchar(16)|0s</DataType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="354" parent="305" name="username">
+    <column id="355" parent="306" name="username">
       <DataType>varchar(20)|0s</DataType>
       <NotNull>1</NotNull>
       <Position>2</Position>
     </column>
-    <column id="355" parent="305" name="grade">
+    <column id="356" parent="306" name="grade">
       <DataType>enum(&apos;A&apos;, &apos;B&apos;, &apos;C&apos;)|0e</DataType>
       <Position>3</Position>
     </column>
-    <index id="356" parent="305" name="PRIMARY">
+    <index id="357" parent="306" name="PRIMARY">
       <ColNames>userid</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <key id="357" parent="305" name="PRIMARY">
+    <key id="358" parent="306" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="358" parent="306" name="orderid">
+    <column id="359" parent="307" name="orderid">
       <DataType>int|0s</DataType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="359" parent="306" name="productcode">
+    <column id="360" parent="307" name="productcode">
       <DataType>varchar(12)|0s</DataType>
       <Position>2</Position>
     </column>
-    <column id="360" parent="306" name="cnt">
+    <column id="361" parent="307" name="cnt">
       <DataType>int|0s</DataType>
       <Position>3</Position>
     </column>
-    <foreign-key id="361" parent="306" name="detail_orders_orderid_fk">
+    <foreign-key id="362" parent="307" name="detail_orders_orderid_fk">
       <ColNames>orderid</ColNames>
       <RefColNames>orderid</RefColNames>
       <RefTableName>orders</RefTableName>
     </foreign-key>
-    <foreign-key id="362" parent="306" name="detail_product_productcode_fk">
+    <foreign-key id="363" parent="307" name="detail_product_productcode_fk">
       <ColNames>productcode</ColNames>
       <RefColNames>productcode</RefColNames>
       <RefTableName>product</RefTableName>
     </foreign-key>
-    <index id="363" parent="306" name="PRIMARY">
+    <index id="364" parent="307" name="PRIMARY">
       <ColNames>orderid</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <index id="364" parent="306" name="detail_product_productcode_fk_idx">
+    <index id="365" parent="307" name="detail_product_productcode_fk_idx">
       <ColNames>productcode</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="365" parent="306" name="PRIMARY">
+    <key id="366" parent="307" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="366" parent="307" name="orderid">
+    <column id="367" parent="308" name="orderid">
       <AutoIncrement>1</AutoIncrement>
       <DataType>int|0s</DataType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="367" parent="307" name="orderdate">
+    <column id="368" parent="308" name="orderdate">
       <DataType>timestamp|0s</DataType>
       <Position>2</Position>
     </column>
-    <column id="368" parent="307" name="userid">
+    <column id="369" parent="308" name="userid">
       <DataType>varchar(16)|0s</DataType>
       <Position>3</Position>
     </column>
-    <foreign-key id="369" parent="307" name="orders_to_member_userid_fk">
+    <foreign-key id="370" parent="308" name="orders_to_member_userid_fk">
       <ColNames>userid</ColNames>
       <RefColNames>userid</RefColNames>
       <RefTableName>member</RefTableName>
     </foreign-key>
-    <index id="370" parent="307" name="PRIMARY">
+    <index id="371" parent="308" name="PRIMARY">
       <ColNames>orderid</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <index id="371" parent="307" name="orders_to_member_userid_fk_idx">
+    <index id="372" parent="308" name="orders_to_member_userid_fk_idx">
       <ColNames>userid</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="372" parent="307" name="PRIMARY">
+    <key id="373" parent="308" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="373" parent="308" name="productcode">
+    <column id="374" parent="309" name="productcode">
       <DataType>varchar(12)|0s</DataType>
       <NotNull>1</NotNull>
       <Position>1</Position>
     </column>
-    <column id="374" parent="308" name="productname">
+    <column id="375" parent="309" name="productname">
       <DataType>varchar(40)|0s</DataType>
       <Position>2</Position>
     </column>
-    <column id="375" parent="308" name="ea">
+    <column id="376" parent="309" name="ea">
       <DataType>int|0s</DataType>
       <Position>3</Position>
     </column>
-    <column id="376" parent="308" name="price">
+    <column id="377" parent="309" name="price">
       <DataType>int|0s</DataType>
       <Position>4</Position>
     </column>
-    <index id="377" parent="308" name="PRIMARY">
+    <index id="378" parent="309" name="PRIMARY">
       <ColNames>productcode</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <key id="378" parent="308" name="PRIMARY">
+    <key id="379" parent="309" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
