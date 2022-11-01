@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- name space는 BookRepo의 fully qualified name으로 설정한다. -->
+<mapper namespace="com.april2nd.live1.model.dao.BookDao">
+<!--	int insert(Book book) throws SQLException;-->
+<!--	int update(Book book) throws SQLException;-->
+<!--	int delete(String id) throws SQLException;-->
+
+<!--	Book select(String id) throws SQLException;-->
+<!--	List<Book> selectAll() throws SQLException;-->
+	<insert id="insert" parameterType="Book">
+		insert
+		into book(isbn, title, author, price, content)
+		values (#{isbn}, #{title}, #{author}, #{price}, #{content})
+	</insert>
+
+	<select id="selectAll" resultType="Book">
+		select isbn, title, author, price, content
+		from book
+	</select>
+</mapper>

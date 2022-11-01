@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: unknownflower
+Build-Jdk: Azul Zulu version 1.8.0_342
+Implementation-Title: live1
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.april2nd
+Main-Class: ${start-class}
+

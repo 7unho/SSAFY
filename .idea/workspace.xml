@@ -10,9 +10,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1e6c3458-137d-447d-bdb4-914a9cb5fab4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1e6c3458-137d-447d-bdb4-914a9cb5fab4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/artifacts/ws_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/artifacts/ws_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/day221028.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__ch_qos_reload4j_reload4j_1_2_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_19_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_json_json_20220924.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_mybatis_mybatis_3_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_slf4j_slf4j_reload4j_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_springframework_spring_aop_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_springframework_spring_beans_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_springframework_spring_context_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_springframework_spring_core_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_springframework_spring_expression_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_springframework_spring_test_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_springframework_spring_tx_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_springframework_spring_web_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/libraries/Spring_MVC_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/ws/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/ws/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/ws/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/ws/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/ws/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/ws/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/ws/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/ws/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/ws/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/ws/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/ws/src/main/webapp/resources/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221028/ws/src/main/webapp/resources/img/ssafy_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221031/live1/src/main/java/com/april2nd/live1/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221031/live1/src/main/java/com/april2nd/live1/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day221031/live1/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day221025/live1/src/main/java/com/live1/model/service/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/day221025/live1/src/main/java/com/live1/model/service/BookServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day221025/live1/src/main/java/com/live1/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/day221025/live1/src/main/java/com/live1/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day221025/live1/src/main/webapp/WEB-INF/views/book/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/day221031/live1/src/main/webapp/WEB-INF/views/book/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day221025/live1/src/main/webapp/WEB-INF/views/book/regist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/day221031/live1/src/main/webapp/WEB-INF/views/book/regist.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day221025/live1/src/main/webapp/WEB-INF/views/book/regist_result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/day221031/live1/src/main/webapp/WEB-INF/views/book/regist_result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day221027/live1/src/main/webapp/META-INF/context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day221028/ws/src/main/webapp/META-INF/context.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -361,7 +424,11 @@
       <workItem from="1666014475388" duration="5846000" />
       <workItem from="1666064225202" duration="11526000" />
       <workItem from="1666743929428" duration="43000" />
-      <workItem from="1666746949679" duration="1294000" />
+      <workItem from="1666746949679" duration="1347000" />
+      <workItem from="1666828899731" duration="160000" />
+      <workItem from="1666918009733" duration="477000" />
+      <workItem from="1667193856224" duration="47000" />
+      <workItem from="1667286739712" duration="34000" />
     </task>
     <servers />
   </component>
