@@ -70,8 +70,7 @@ public class BoardController {
 		System.out.println(boardDto.toString());
 		
 		if (boardService.modifyArticle(boardDto)) {
-//			return new ResponseEntity<String>(SUCCESS, HttpStatus.OK);
-			return new ResponseEntity<String>(boardDto.toString(), HttpStatus.OK);
+			return new ResponseEntity<String>(SUCCESS, HttpStatus.OK);
 		}
 		return new ResponseEntity<String>(FAIL, HttpStatus.OK);
 	}
