@@ -67,9 +67,11 @@ public class BoardController {
 	@PutMapping
 	public ResponseEntity<String> modifyArticle(@RequestBody @ApiParam(value = "수정할 글정보.", required = true) BoardDto boardDto) throws Exception {
 		logger.info("modifyArticle - 호출 {}", boardDto);
+		System.out.println(boardDto.toString());
 		
 		if (boardService.modifyArticle(boardDto)) {
-			return new ResponseEntity<String>(SUCCESS, HttpStatus.OK);
+//			return new ResponseEntity<String>(SUCCESS, HttpStatus.OK);
+			return new ResponseEntity<String>(boardDto.toString(), HttpStatus.OK);
 		}
 		return new ResponseEntity<String>(FAIL, HttpStatus.OK);
 	}
