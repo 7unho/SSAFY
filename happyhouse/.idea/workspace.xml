@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf08918e-e69c-4f1b-83c1-de57040c9e45" name="Changes" comment="₩">
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/controller/BoardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/controller/CommentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/controller/HouseMapController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/controller/NoticeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/BoardDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/BoardParameterDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/BookmarkDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/CommentDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/DealInfoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/HouseInfoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/HouseMapFilterDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/MemberDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/NoticeDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/SearchResultDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/SidoGugunCodeDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/mapper/BoardMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/mapper/CommentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/mapper/HouseMapMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/mapper/MemberMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/mapper/NoticeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/BoardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/BoardServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/CommentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/HouseMapService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/HouseMapServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/JwtServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/MemberServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/NoticeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/NoticeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/resources/mappers/apt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/resources/mappers/board.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/resources/mappers/comment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/resources/mappers/member.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PJT_final/HappyHouse/src/main/resources/mappers/notice.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day221017_spring/day221017_spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day221017_spring/day221017_spring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day221018/day221018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day221018/day221018.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day221110/VueApi/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../day221110/VueApi/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day221111/vue/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../day221111/vue/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HxWznknmeCv5DbO6MrQKeddoGF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/unknownflower/Desktop/workspace/Java/happyhouse&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;ccfd906f4992f6a18d3535221d1d8a2d&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="HappyhouseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="happyhouse" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ssafy.vue.HappyhouseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf08918e-e69c-4f1b-83c1-de57040c9e45" name="Changes" comment="" />
+      <created>1669227480156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669227480156</updated>
+      <workItem from="1669227481206" duration="37000" />
+      <workItem from="1669248495596" duration="9491000" />
+      <workItem from="1669295148739" duration="768000" />
+      <workItem from="1669702255375" duration="880000" />
+      <workItem from="1669704831693" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
