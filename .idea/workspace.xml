@@ -9,53 +9,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/controller/BoardController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/controller/CommentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/controller/HouseMapController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/controller/MemberController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/controller/NoticeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/BoardDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/BoardParameterDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/BookmarkDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/CommentDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/DealInfoDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/HouseInfoDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/HouseMapFilterDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/MemberDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/NoticeDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/SearchResultDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/SidoGugunCodeDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/mapper/BoardMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/mapper/CommentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/mapper/HouseMapMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/mapper/MemberMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/mapper/NoticeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/BoardService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/BoardServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/CommentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/CommentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/HouseMapService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/HouseMapServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/JwtService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/JwtServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/MemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/MemberServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/NoticeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/java/com/april2nd/happyhouse/model/service/NoticeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/resources/mappers/apt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/resources/mappers/board.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/resources/mappers/comment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/resources/mappers/member.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PJT_final/HappyHouse/src/main/resources/mappers/notice.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day221017_spring/day221017_spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day221017_spring/day221017_spring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day221018/day221018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day221018/day221018.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day221110/VueApi/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/day221110/VueApi/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day221111/vue/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/day221111/vue/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="f9b19c1d-cc09-49e9-a181-b88f30f7a4be" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -425,6 +379,7 @@
       <workItem from="1669227460629" duration="19000" />
       <workItem from="1669724801077" duration="40000" />
       <workItem from="1669725088114" duration="35000" />
+      <workItem from="1669957499339" duration="31000" />
     </task>
     <servers />
   </component>
